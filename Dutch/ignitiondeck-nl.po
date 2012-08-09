@@ -1,0 +1,944 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IgnitionDeck\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-01-21 18:04-0500\n"
+"PO-Revision-Date: 2012-01-21 18:04-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: text_variables.php:2
+#: text_variables.php:146
+msgid "Projects"
+msgstr "Projecten"
+
+#: text_variables.php:3
+#: text_variables.php:12
+msgid "Project"
+msgstr "Project"
+
+#: text_variables.php:4
+msgid "Add New Project"
+msgstr "Voeg Nieuw Project Toe"
+
+#: text_variables.php:5
+#: text_variables.php:122
+msgid "Edit"
+msgstr "Bewerk"
+
+#: text_variables.php:6
+#: text_variables.php:185
+msgid "Edit Project"
+msgstr "Bewerk Project"
+
+#: text_variables.php:7
+msgid "New Project"
+msgstr "Nieuw Project"
+
+#: text_variables.php:8
+msgid "View Project"
+msgstr "Bekijk Project"
+
+#: text_variables.php:9
+msgid "Search Project"
+msgstr "Zoek Project"
+
+#: text_variables.php:10
+#, fuzzy
+msgid "No Projects Found"
+msgstr "Geen Projecten Gevonden"
+
+#: text_variables.php:11
+#, fuzzy
+msgid "No Projects Found in Trash"
+msgstr "Geen Projecten Gevonden in prullenbak"
+
+#: text_variables.php:13
+msgid "Funding Goal"
+msgstr "Subsidie Doel"
+
+#: text_variables.php:14
+msgid "End Date"
+msgstr "Eind Datum"
+
+#: text_variables.php:15
+msgid "Days Remaining"
+msgstr "Dagen Over"
+
+#: text_variables.php:16
+msgid "No funding goal set"
+msgstr "Geen fonds doel ingesteld"
+
+#: text_variables.php:17
+msgid "No date set"
+msgstr "Geen datum ingesteld"
+
+#: text_variables.php:18
+msgid "Enter Project Name Here"
+msgstr "Voer Project Naam In"
+
+#: text_variables.php:19
+msgid "Add"
+msgstr "Voeg toe"
+
+#: text_variables.php:20
+msgid "Update"
+msgstr "Bijwerken"
+
+#: text_variables.php:21
+msgid "IgnitionDeck Control Panel"
+msgstr "IgnitionDeck Beheer Paneel"
+
+#: text_variables.php:22
+msgid "Facebook Application Settings"
+msgstr "Facebook Applicatie Instellingen"
+
+#: text_variables.php:23
+msgid "Save"
+msgstr "Opslaan"
+
+#: text_variables.php:24
+msgid "Facebook settings have been successfully updated."
+msgstr "Facebook instellingen zijn succesvol bijgewerkt."
+
+#: text_variables.php:25
+msgid "Twitter Application Settings"
+msgstr "Twitter Applicatie Instellingen"
+
+#: text_variables.php:26
+msgid "Twitter settings have been successfully updated."
+msgstr "Twitter instellingen zijn succesvol bijgewerkt."
+
+#: text_variables.php:28
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+#: text_variables.php:29
+msgid "Save Settings"
+msgstr "Bewaar Instellingen"
+
+#: text_variables.php:30
+msgid "Update Settings"
+msgstr "Instellingen bijwerken"
+
+#: text_variables.php:31
+msgid "Form settings have been successfully updated."
+msgstr "Formulier instellingen zijn succesvol bijgewerkt."
+
+#: text_variables.php:32
+msgid "Twitter settings have been successfully saved."
+msgstr "Twitter instellingen zijn succesvol opgeslagen."
+
+#: text_variables.php:33
+msgid "Aweber settings have been successfully saved."
+msgstr "Aweber instellingen zijn sucessvol opgeslagen."
+
+#: text_variables.php:34
+#, fuzzy
+msgid "Aweber settings have been successfully updated."
+msgstr "Aweber instellingen zijn succesvol bijgewerkt."
+
+#: text_variables.php:35
+msgid "Mailchimp settings have been successfully saved."
+msgstr "Mailchimp instellingen zijn succesvol opgeslagen."
+
+#: text_variables.php:36
+#, fuzzy
+msgid "Mailchimp settings have been successfully updated."
+msgstr "Mailchimp instellingen zijn succesvol bijgewerkt."
+
+#: text_variables.php:37
+msgid "Payment settings have been successfully saved."
+msgstr "Betalings instellingen zijn succesvol opgeslagen."
+
+#: text_variables.php:38
+msgid "Please fill all fields."
+msgstr "Vul aub alle velden."
+
+#: text_variables.php:39
+#, fuzzy
+msgid "Projects successfully added."
+msgstr "Projecten succesvol toegevoegd."
+
+#: text_variables.php:40
+msgid "previous"
+msgstr "vorige"
+
+#: text_variables.php:41
+msgid "next"
+msgstr "volgende"
+
+#: text_variables.php:42
+#, fuzzy
+msgid "Project has been successfully updated."
+msgstr "Project is succesvol bijgewerkt."
+
+#: text_variables.php:43
+msgid "Settings have been successfully updated."
+msgstr "Instellingen zijn succesvol bijgewerkt."
+
+#: text_variables.php:44
+msgid "Asked Questions"
+msgstr "Gestelde Vragen"
+
+#: text_variables.php:45
+msgid "Settings"
+msgstr "Instellingen"
+
+#: text_variables.php:46
+msgid "Payment Settings"
+msgstr "Betalings Instellingen"
+
+#: text_variables.php:47
+msgid "Order Details"
+msgstr "Bestelling Details"
+
+#: text_variables.php:48
+msgid "Email List Settings"
+msgstr "Email Lijst Instellingen"
+
+#: text_variables.php:49
+msgid "Social Settings"
+msgstr "Sociale Instellingen"
+
+#: text_variables.php:50
+#, fuzzy
+msgid "Project Settings"
+msgstr "Project Instellingen"
+
+#: text_variables.php:51
+msgid "Payment Form"
+msgstr "Betalings Formulier"
+
+#: text_variables.php:52
+msgid "Widget to show projects"
+msgstr "Widget om projecten te tonen"
+
+#: text_variables.php:53
+#, fuzzy
+msgid "IgnitionDeck Project Widget"
+msgstr "IgnitionDeck Project Widget"
+
+#: text_variables.php:54
+#, fuzzy
+msgid "About the Project"
+msgstr "Over het Project"
+
+#: text_variables.php:55
+#, fuzzy
+msgid "The Project FAQ's"
+msgstr "Veel gestelde vragen over het project"
+
+#: text_variables.php:56
+msgid "Buyers"
+msgstr "Kopers"
+
+#: text_variables.php:57
+#, fuzzy
+msgid "Redirecting to Paypal..."
+msgstr "Doorsturen naar Paypal..."
+
+#: text_variables.php:58
+#, fuzzy
+msgid "Twitter.connection.failed"
+msgstr "twitter.verbinding.mislukt"
+
+#: text_variables.php:59
+msgid "Error occured let's try again"
+msgstr "Er is iets fout gegaan, probeer opnieuw"
+
+#: text_variables.php:60
+#, fuzzy
+msgid "Twitter.share.success"
+msgstr "delen.via.twitter.succesvol"
+
+#: text_variables.php:61
+#, fuzzy
+msgid "Twitter.share.failed"
+msgstr "delen.via.twitter.mislukt"
+
+#: text_variables.php:62
+#, fuzzy
+msgid "Facebook.share.success"
+msgstr "delen.via.Facebook.succesvol"
+
+#: text_variables.php:63
+#, fuzzy
+msgid "Facebook.share.failed"
+msgstr "delen.via.Facebook.mislukt"
+
+#: text_variables.php:64
+#, fuzzy, php-format
+msgid "IgnitionDeck: %s sent a question"
+msgstr "IgnitionDeck: %s heeft een Vraag gesteld"
+
+#: text_variables.php:65
+msgid "Name"
+msgstr "Naam"
+
+#: text_variables.php:66
+msgid "Email"
+msgstr "Email"
+
+#: text_variables.php:67
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: text_variables.php:68
+msgid "Message"
+msgstr "Bericht"
+
+#: text_variables.php:69
+msgid "Level"
+msgstr "Niveau"
+
+#: text_variables.php:70
+msgid "Price"
+msgstr "Prijs"
+
+#: text_variables.php:71
+msgid "Update Options"
+msgstr "Opties Bijwerken"
+
+#: text_variables.php:72
+msgid "Contact Form"
+msgstr "Contact Formulier"
+
+#: text_variables.php:73
+msgid "Send email"
+msgstr "Stuur Email"
+
+#: text_variables.php:74
+msgid "Clear"
+msgstr "Legen"
+
+#: text_variables.php:75
+msgid "This will be funded on"
+msgstr "Dit zal worden gefinancierd op"
+
+#: text_variables.php:76
+msgid "Learn More"
+msgstr "Leer Meer"
+
+#: text_variables.php:77
+msgid "Support This Project"
+msgstr "Steun Dit Project"
+
+#: text_variables.php:78
+msgid "Our Earliest Buyers"
+msgstr "Onze Vroege Kopers"
+
+#: text_variables.php:79
+msgid "Ask A Question"
+msgstr "Stel een Vraag"
+
+#: text_variables.php:80
+msgid "Crowdfunding by IgnitionDeck"
+msgstr "Crowdfunding door IgnitionDeck"
+
+#: text_variables.php:81
+msgid "Powered By IgnitionDeck"
+msgstr "Mogelijk gemaakt door IgnitionDeck"
+
+#: text_variables.php:82
+msgid "Payment Information"
+msgstr "Betalings Informatie"
+
+#: text_variables.php:83
+msgid "First Name"
+msgstr "Voornaam"
+
+#: text_variables.php:84
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: text_variables.php:85
+msgid "Address"
+msgstr "Adres"
+
+#: text_variables.php:86
+msgid "Country"
+msgstr "Land"
+
+#: text_variables.php:87
+msgid "State"
+msgstr "Provincie"
+
+#: text_variables.php:88
+msgid "City"
+msgstr "Plaats"
+
+#: text_variables.php:89
+msgid "Zip"
+msgstr "Postcode"
+
+#: text_variables.php:90
+msgid "Make Payment"
+msgstr "Doe Betaling"
+
+#: text_variables.php:91
+msgid "Funding"
+msgstr "Financiering"
+
+#: text_variables.php:92
+msgid "Total Sale"
+msgstr "Totale Verkoop"
+
+#: text_variables.php:93
+msgid "Facebook"
+msgstr "Facebook"
+
+#: text_variables.php:94
+msgid "Yes"
+msgstr "Ja"
+
+#: text_variables.php:95
+msgid "No"
+msgstr "Nee"
+
+#: text_variables.php:96
+msgid "Twitter"
+msgstr "Twitter"
+
+#: text_variables.php:97
+msgid "Please share your experience with your friends!"
+msgstr "Deel je ervaringen met je vrienden!"
+
+#: text_variables.php:98
+msgid "API key"
+msgstr "API sleutel"
+
+#: text_variables.php:99
+msgid "Subscription Email"
+msgstr "Aanmeldings Email"
+
+#: text_variables.php:100
+msgid "Aweber Settings"
+msgstr "Aweber Instellingen"
+
+#: text_variables.php:101
+msgid "Make Active"
+msgstr "Actief Maken"
+
+#: text_variables.php:102
+msgid "Consumer Secret"
+msgstr "Publieke Sleutel"
+
+#: text_variables.php:103
+msgid "List Email Id"
+msgstr "Lijst Email Id"
+
+#: text_variables.php:104
+#: text_variables.php:112
+msgid "Mailchimp Settings"
+msgstr "Mailchimp Instellingen"
+
+#: text_variables.php:105
+msgid "List id"
+msgstr "Lijst Id"
+
+#: text_variables.php:106
+msgid "Embed Widget Code"
+msgstr "Widget Invoegcode"
+
+#: text_variables.php:107
+#, fuzzy
+msgid "Select Project to Create Embed Code for"
+msgstr "Selecteer Product om invoegcode voor te Genereren"
+
+#: text_variables.php:108
+msgid "Embed Code"
+msgstr "Invoegcode"
+
+#: text_variables.php:109
+msgid "Application Id"
+msgstr "Applicatie Id"
+
+#: text_variables.php:110
+msgid "Application secret key"
+msgstr "Applicatie prive sleutel"
+
+#: text_variables.php:111
+msgid "Text to share"
+msgstr "Tekst om te delen"
+
+#: text_variables.php:113
+msgid "Email Address"
+msgstr "Email Adres"
+
+#: text_variables.php:114
+msgid "Zip Code"
+msgstr "Postcode"
+
+#: text_variables.php:115
+msgid "Status"
+msgstr "Status"
+
+#: text_variables.php:116
+msgid "Pending"
+msgstr "In afwachting"
+
+#: text_variables.php:117
+msgid "Complete"
+msgstr "Compleet"
+
+#: text_variables.php:118
+#, fuzzy
+msgid "Project Name"
+msgstr "Project Naam"
+
+#: text_variables.php:119
+msgid "Project Level"
+msgstr "Project Niveau"
+
+#: text_variables.php:120
+#, fuzzy
+msgid "Select Project"
+msgstr "Selecteer Project"
+
+#: text_variables.php:121
+msgid "Add Order"
+msgstr "Bestelling Toevoegen"
+
+#: text_variables.php:123
+msgid "Orders"
+msgstr "Bestellingen"
+
+#: text_variables.php:124
+msgid "Completed"
+msgstr "Voltooid"
+
+#: text_variables.php:125
+msgid "View"
+msgstr "Bekijk"
+
+#: text_variables.php:126
+#, fuzzy
+msgid "Are you sure you want to delete this order by"
+msgstr "Bevestig het verwijderen van de bestelling van"
+
+#: text_variables.php:127
+msgid "Delete"
+msgstr "Verwijder"
+
+#: text_variables.php:128
+msgid "Last Email"
+msgstr "Laatste Email"
+
+#: text_variables.php:129
+msgid "Paypal Refund"
+msgstr "Paypal Terugbetaling"
+
+#: text_variables.php:130
+msgid "Pay Key"
+msgstr "Betalings Sleutel"
+
+#: text_variables.php:131
+msgid "Transaction ID"
+msgstr "Transactie ID"
+
+#: text_variables.php:132
+msgid "Currency Code"
+msgstr "Valuta Code"
+
+#: text_variables.php:133
+msgid "Refund"
+msgstr "Terugbetaling"
+
+#: text_variables.php:134
+msgid "Level Price"
+msgstr "Niveau Prijs"
+
+#: text_variables.php:135
+msgid "Level Description"
+msgstr "Niveau Omschrijving"
+
+#: text_variables.php:136
+msgid "PayPal Identity Token"
+msgstr "PayPal Identiteits Token"
+
+#: text_variables.php:137
+msgid "PayPal Email"
+msgstr "PayPal Email"
+
+#: text_variables.php:138
+msgid "PayPal Override"
+msgstr "PayPal Overschrijven"
+
+#: text_variables.php:139
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: text_variables.php:140
+#, fuzzy
+msgid "Project Image"
+msgstr "Project Afbeelding"
+
+#: text_variables.php:141
+msgid "Change"
+msgstr "Verander"
+
+#: text_variables.php:142
+msgid "Close"
+msgstr "Sluiten"
+
+#: text_variables.php:143
+#, fuzzy
+msgid "Project Details"
+msgstr "Project Details"
+
+#: text_variables.php:144
+#, fuzzy
+msgid "Project Price"
+msgstr "Project Prijs"
+
+#: text_variables.php:145
+msgid "Goal"
+msgstr "Doel"
+
+#: text_variables.php:147
+msgid "#"
+msgstr ""
+
+#: text_variables.php:148
+msgid "Image"
+msgstr "Afbeelding"
+
+#: text_variables.php:149
+msgid "Mailchimp API Key"
+msgstr "Mailchimp API Sleutel"
+
+#: text_variables.php:150
+msgid "Mailchimp List ID"
+msgstr "Mailchimp Lijst Id"
+
+#: text_variables.php:151
+msgid "Aweber Email"
+msgstr "Aweber Email"
+
+#: text_variables.php:152
+msgid "Active Settings"
+msgstr "Actieve Instellingen"
+
+#: text_variables.php:153
+msgid "Field name"
+msgstr "Veldnaam"
+
+#: text_variables.php:154
+msgid "Enabled"
+msgstr "Ingeschakeld"
+
+#: text_variables.php:155
+msgid "Mandatory"
+msgstr "Vereist"
+
+#: text_variables.php:156
+msgid "First name"
+msgstr "Voornaam"
+
+#: text_variables.php:157
+msgid "Last name"
+msgstr "Achternaam"
+
+#: text_variables.php:158
+#, fuzzy
+msgid "Default Project Settings"
+msgstr "Standaard Project Instellingen"
+
+#: text_variables.php:159
+msgid "Custom Project Settings"
+msgstr "Aangepaste Project Instellingen"
+
+#: text_variables.php:160
+#, fuzzy
+msgid "Project ID"
+msgstr "Project ID"
+
+#: text_variables.php:161
+msgid "Question Details"
+msgstr "Vraag Details"
+
+#: text_variables.php:162
+msgid "Question Subject"
+msgstr "Vraag Onderwerp"
+
+#: text_variables.php:163
+msgid "Created Date"
+msgstr "Aanmaak Datum"
+
+#: text_variables.php:164
+msgid "General Settings"
+msgstr "Algemene Instellingen"
+
+#: text_variables.php:165
+msgid "Ignition Deck Logo"
+msgstr "IgnitionDeck Logo"
+
+#: text_variables.php:166
+#, fuzzy
+msgid "Facebook on Project Page"
+msgstr "Facebook op Projectpagina"
+
+#: text_variables.php:167
+#, fuzzy
+msgid "Want people to share via Facebook from your project page?  Use this."
+msgstr "Mensen toestaan om via Facebook te delen vanaf je project pagina? Gebruik dit."
+
+#: text_variables.php:168
+#, fuzzy
+msgid "Want people to share via Twitter from your project page?  Use this."
+msgstr "Mensen toestaan om via Twitter te delen vanaf je project pagina? Gebruik dit."
+
+#: text_variables.php:169
+msgid "Twitter on Project Page"
+msgstr "Twitter op Projectpagina"
+
+#: text_variables.php:170
+#, fuzzy
+msgid "Ask a Question Button"
+msgstr "Stel een Vraag Knop"
+
+#: text_variables.php:171
+#, fuzzy
+msgid "Enable or disable ask a question button on the widget"
+msgstr "In- of Uit-schakelen Stel een Vraag knop op de widget"
+
+#: text_variables.php:172
+#, fuzzy
+msgid "Ask a Question Email"
+msgstr "Stel een Vraag Email"
+
+#: text_variables.php:173
+msgid "Email address to which the question should be sent"
+msgstr "Email adres waar de vraag heen gestuurd moet worden"
+
+#: text_variables.php:174
+msgid "Widget Theme"
+msgstr "Widget Thema"
+
+#: text_variables.php:175
+msgid "IgnitionDeck"
+msgstr "IgnitionDeck"
+
+#: text_variables.php:176
+msgid "Clean"
+msgstr "Wissen"
+
+#: text_variables.php:177
+msgid "Skyscraper"
+msgstr "Reclamebanner"
+
+#: text_variables.php:178
+msgid "Corporate"
+msgstr "Bedrijf"
+
+#: text_variables.php:179
+msgid "Supporter Exclusive"
+msgstr "Aanhanger Exclusief"
+
+#: text_variables.php:180
+msgid "Consumer Key"
+msgstr "Publieke sleutel"
+
+#: text_variables.php:181
+msgid "Callback URL"
+msgstr "Callback URL"
+
+#: text_variables.php:182
+#, fuzzy
+msgid "Projects successfully updated."
+msgstr "Project succesvol bijgewerkt."
+
+#: text_variables.php:183
+#, fuzzy
+msgid "Projects successfully deleted."
+msgstr "Project succesvol verwijderd."
+
+#: text_variables.php:184
+msgid "Updates"
+msgstr "Updates"
+
+#: text_variables.php:186
+#, fuzzy
+msgid "Add Project"
+msgstr "Voeg nieuw project toe"
+
+#: text_variables.php:187
+#, fuzzy
+msgid "This allows you to deactivate the 'Powered By IgnitionDeck' logo that would appear at the bottom of the widget."
+msgstr "Dit zorgt er voor dat het 'Powered By IgnitionDeck' logo wat onderaan de widget zou verschijnen wordt uitgeschakeld."
+
+#: text_variables.php:188
+msgid "Name of the Project (Required)"
+msgstr ""
+
+#: text_variables.php:189
+#, fuzzy
+msgid "Level 1 Description"
+msgstr "Niveau Omschrijving"
+
+#: text_variables.php:190
+msgid "Price of the project (Level 1) (required)."
+msgstr ""
+
+#: text_variables.php:191
+#, fuzzy
+msgid "First price level description."
+msgstr "Niveau Omschrijving"
+
+#: text_variables.php:192
+msgid "Amount you are looking to raise (required)."
+msgstr ""
+
+#: text_variables.php:193
+msgid "Fundraising End Date"
+msgstr ""
+
+#: text_variables.php:194
+msgid "Ending date for fundraising (recommended)."
+msgstr ""
+
+#: text_variables.php:195
+msgid "Proposed Ship Date"
+msgstr ""
+
+#: text_variables.php:196
+msgid "When do you hope to ship? Leave blank if unknown."
+msgstr ""
+
+#: text_variables.php:197
+#, fuzzy
+msgid "Video"
+msgstr "Bekijk"
+
+#: text_variables.php:198
+msgid "Embed Video Code (YouTube, Vimeo, Viddler)."
+msgstr ""
+
+#: text_variables.php:199
+#, fuzzy
+msgid "Image 1"
+msgstr "Afbeelding"
+
+#: text_variables.php:200
+msgid "Image 1 - Shortcode: [product_image product=\"1\" image=\"1\"]"
+msgstr ""
+
+#: text_variables.php:201
+#, fuzzy
+msgid "Image 2"
+msgstr "Afbeelding"
+
+#: text_variables.php:202
+msgid "Image 2 - Shortcode: [product_image product=\"1\" image=\"2\"]"
+msgstr ""
+
+#: text_variables.php:203
+#, fuzzy
+msgid "Image 3"
+msgstr "Afbeelding"
+
+#: text_variables.php:204
+msgid "Image 3 - Shortcode: [product_image product=\"1\" image=\"3\"]"
+msgstr ""
+
+#: text_variables.php:205
+#, fuzzy
+msgid "Image 4"
+msgstr "Afbeelding"
+
+#: text_variables.php:206
+msgid "Image 4 - Shortcode: [product_image product=\"1\" image=\"4\"]"
+msgstr ""
+
+#: text_variables.php:207
+msgid "FAQs"
+msgstr ""
+
+#: text_variables.php:208
+msgid "For those often asked questions that you would like to give a direct answer to. You can edit and add as much as needed."
+msgstr ""
+
+#: text_variables.php:209
+#, fuzzy
+msgid "Project Updates"
+msgstr "Project Naam"
+
+#: text_variables.php:210
+msgid "Add product updates here."
+msgstr ""
+
+#: text_variables.php:211
+msgid "Disclaimer"
+msgstr ""
+
+#: text_variables.php:212
+msgid "This is not displayed on the project page. For testing only."
+msgstr ""
+
+#: text_variables.php:213
+msgid "This will have a default disclaimer pre-filled that a user will have the ability to edit to their needs."
+msgstr ""
+
+#: text_variables.php:214
+msgid "Additional Price Levels"
+msgstr ""
+
+#: text_variables.php:215
+msgid "Add additional price levels here."
+msgstr ""
+
+#: text_variables.php:216
+msgid "Shortcodes"
+msgstr ""
+
+#~ msgid "Sr. no"
+#~ msgstr "Serienummer"
+
+#~ msgid "Mail chimp Settings"
+#~ msgstr "Mail chimp Instellingen"
+
+#~ msgid "Action"
+#~ msgstr "Actie"
+
+#~ msgid "Product"
+#~ msgstr "Project"
+
+#~ msgid "Products"
+#~ msgstr "Products"
+
+#~ msgid "Product ID"
+#~ msgstr "Product ID"
+
+#~ msgid "Edit Product"
+#~ msgstr "Bewerk Product"
+
+#~ msgid "Add Product"
+#~ msgstr "Voeg Product toe"
+
+#~ msgid "Facebook settings have been successfully saved."
+#~ msgstr "Facebook instelingen zijn succesvol bijgewerkt."
+
+#~ msgid "Consumer key"
+#~ msgstr "Openbare sleutel"
+
+#~ msgid "Consumer secret"
+#~ msgstr "Prive sleutel"
+
+#~ msgid "Add New Product"
+#~ msgstr "Voeg nieuw Product toe"
+
+#~ msgid "New Product"
+#~ msgstr "Nieuw Product"
+
+#~ msgid "View Product"
+#~ msgstr "Bekijk Product"
+
+#~ msgid "Search Product"
+#~ msgstr "Zoek Product"

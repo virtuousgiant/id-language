@@ -1,0 +1,876 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IgnitionDeck\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-11-28 16:48+0500\n"
+"PO-Revision-Date: 2012-01-21 18:33-0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: D:\\AppServ\\www\\ignitiondeck_plugin\\wp-content\\plugins\\ignitiondeck\\\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: CANADA\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: ignitiondeck-admin.php:24
+msgid "Projects"
+msgstr "Projets"
+
+#: ignitiondeck-admin.php:25
+msgid "Project"
+msgstr "Projet"
+
+#: ignitiondeck-admin.php:26
+#: ignitiondeck-admin.php:27
+msgid "Add New Project"
+msgstr "Ajouter un nouveau projet"
+
+#: ignitiondeck-admin.php:28
+#: ignitiondeck-admin_bk_24-Nov-2011.php:28
+msgid "Edit"
+msgstr "Edition"
+
+#: ignitiondeck-admin.php:29
+msgid "Edit Project"
+msgstr "Editer le Projet"
+
+#: ignitiondeck-admin.php:30
+msgid "New Project"
+msgstr "Nouveau"
+
+#: ignitiondeck-admin.php:31
+#: ignitiondeck-admin.php:32
+msgid "View Project"
+msgstr "Visualiser"
+
+#: ignitiondeck-admin.php:33
+msgid "Search Project"
+msgstr "Rechercher"
+
+#: ignitiondeck-admin.php:34
+#: ignitiondeck-admin_bk_24-Nov-2011.php:34
+msgid "No Products found"
+msgstr "Aucun produits trouvÃ©"
+
+#: ignitiondeck-admin.php:35
+#: ignitiondeck-admin_bk_24-Nov-2011.php:35
+msgid "No Products found in Trash"
+msgstr "Aucun produits trouvÃ© dans les Ã©lÃ©ments supprimÃ©s"
+
+#: ignitiondeck-admin.php:58
+#: ignitiondeck-admin_bk_24-Nov-2011.php:25
+#: ignitiondeck-admin_bk_24-Nov-2011.php:58
+msgid "Product"
+msgstr "Produit"
+
+#: ignitiondeck-admin.php:59
+#: ignitiondeck-admin_bk_24-Nov-2011.php:59
+msgid "Funding Goal"
+msgstr "Cible"
+
+#: ignitiondeck-admin.php:60
+#: ignitiondeck-admin_bk_24-Nov-2011.php:60
+msgid "End Date"
+msgstr "Date de fin"
+
+#: ignitiondeck-admin.php:61
+#: ignitiondeck-admin_bk_24-Nov-2011.php:61
+msgid "Days Remaining"
+msgstr "Jours restants"
+
+#: ignitiondeck-admin.php:79
+msgid "No funding goal set"
+msgstr "Aucun but dÃ©fini"
+
+#: ignitiondeck-admin.php:88
+#: ignitiondeck-admin.php:102
+msgid "No date set"
+msgstr "Aucune date definie"
+
+#: ignitiondeck-admin.php:130
+msgid "Enter Project Name Here"
+msgstr "Entrez le nom du projet"
+
+#: ignitiondeck-admin.php:169
+#: ignitiondeck-admin.php:1104
+msgid "Add"
+msgstr "Ajouter"
+
+#: ignitiondeck-admin.php:187
+#: ignitiondeck-admin.php:228
+#: ignitiondeck-admin.php:239
+#: ignitiondeck-admin.php:254
+#: ignitiondeck-admin.php:292
+#: ignitiondeck-admin.php:304
+#: ignitiondeck-admin.php:370
+#: ignitiondeck-admin.php:419
+#: ignitiondeck-admin.php:456
+#: ignitiondeck-admin.php:506
+#: ignitiondeck-admin.php:541
+#: ignitiondeck-admin.php:1121
+#: ignitiondeck-admin.php:1231
+msgid "Update"
+msgstr "Mise a jour"
+
+#: ignitiondeck-admin.php:203
+msgid "IgnitionDeck Control Panel"
+msgstr "Panneau de controle"
+
+#: ignitiondeck-admin.php:218
+#: ignitiondeck-admin.php:279
+msgid "Facebook Application Settings"
+msgstr "ParamÃ¨tres Facebook"
+
+#: ignitiondeck-admin.php:222
+#: ignitiondeck-admin.php:239
+#: ignitiondeck-admin.php:247
+#: ignitiondeck-admin.php:284
+#: ignitiondeck-admin.php:304
+#: ignitiondeck-admin.php:362
+#: ignitiondeck-admin.php:400
+#: ignitiondeck-admin.php:444
+#: ignitiondeck-admin.php:493
+#: ignitiondeck-admin.php:535
+#: ignitiondeck-admin.php:1211
+msgid "Save"
+msgstr "Sauveguarder"
+
+#: ignitiondeck-admin.php:225
+#: ignitiondeck-admin.php:231
+#: ignitiondeck-admin.php:296
+msgid "Facebook settings have been successfully updated."
+msgstr "les paramÃ¨tres Facebook ont Ã©tÃ© sauveguardÃ©"
+
+#: ignitiondeck-admin.php:244
+#: ignitiondeck-admin.php:360
+msgid "Twitter Application Settings"
+msgstr "ParamÃ¨tres Twitter"
+
+#: ignitiondeck-admin.php:251
+#: ignitiondeck-admin.php:258
+#: ignitiondeck-admin.php:374
+msgid "Twitter settings have been successfully updated."
+msgstr "les paramÃ¨tres Twitter ont Ã©tÃ© sauveguardÃ©"
+
+#: ignitiondeck-admin.php:288
+msgid "Facebook settings have been successfully saved."
+msgstr "les paramÃ¨tres Facebook ont Ã©tÃ© sauveguardÃ©"
+
+#: ignitiondeck-admin.php:322
+#: ignitiondeck-admin.php:562
+#: ignitiondeck-admin.php:1160
+msgid "Save Settings"
+msgstr "Sauveguarder"
+
+#: ignitiondeck-admin.php:325
+#: ignitiondeck-admin.php:1172
+msgid "Settings saved."
+msgstr "SauveguardÃ©!"
+
+#: ignitiondeck-admin.php:328
+#: ignitiondeck-admin.php:1175
+msgid "Update Settings"
+msgstr "Mise a jour"
+
+#: ignitiondeck-admin.php:332
+msgid "Form settings have been successfully updated."
+msgstr "le formulaire a Ã©tÃ© sauveguardÃ©"
+
+#: ignitiondeck-admin.php:367
+msgid "Twitter settings have been successfully saved."
+msgstr "les paramÃ¨tres Twitter ont Ã©tÃ© sauveguardÃ©"
+
+#: ignitiondeck-admin.php:415
+#: ignitiondeck-admin.php:502
+msgid "Aweber settings have been successfully saved."
+msgstr "les paramÃ¨tres Aweber ont Ã©tÃ© sauveguardÃ©"
+
+#: ignitiondeck-admin.php:431
+#: ignitiondeck-admin.php:513
+msgid "Aweber settings have been successfully Updated."
+msgstr "les paramÃ¨tres Aweber ont Ã©tÃ© sauveguardÃ©"
+
+#: ignitiondeck-admin.php:453
+#: ignitiondeck-admin.php:538
+msgid "Mailchimp settings have been successfully saved."
+msgstr "les paramÃ¨tres Mailchimp ont Ã©tÃ© sauveguardÃ©"
+
+#: ignitiondeck-admin.php:465
+#: ignitiondeck-admin.php:543
+msgid "Mailchimp settings have been successfully Updated."
+msgstr "les paramÃ¨tres MailChimp ont Ã©tÃ© sauveguardÃ©"
+
+#: ignitiondeck-admin.php:576
+msgid "Payment settings have been successfully saved."
+msgstr "les paramÃ¨tres de paiment ont Ã©tÃ© sauveguardÃ©"
+
+#: ignitiondeck-admin.php:632
+msgid "Please fill all fields."
+msgstr "Veuillez complÃ©ter tout les champs"
+
+#: ignitiondeck-admin.php:822
+msgid "Products successfully added."
+msgstr "Produits sauveguardÃ©s"
+
+#: ignitiondeck-admin.php:826
+msgid "Products successfully updated."
+msgstr "Produits sauveguardÃ©s"
+
+#: ignitiondeck-admin.php:830
+msgid "Products successfully deleted."
+msgstr "Produits supprimÃ©s"
+
+#: ignitiondeck-admin.php:875
+#: ignitiondeck-admin.php:877
+#: ignitiondeck-admin.php:1313
+#: ignitiondeck-admin.php:1315
+msgid "previous"
+msgstr "prÃ©cÃ©dent"
+
+#: ignitiondeck-admin.php:936
+#: ignitiondeck-admin.php:938
+#: ignitiondeck-admin.php:1374
+#: ignitiondeck-admin.php:1376
+msgid "next"
+msgstr "suivant"
+
+#: ignitiondeck-admin.php:986
+msgid "Product have been successfully updated."
+msgstr "Produits sauveguardÃ©s"
+
+#: ignitiondeck-admin.php:1189
+msgid "Settings have been successfully updated."
+msgstr "ParamÃ¨tres sauveguardÃ©s"
+
+#: ignitiondeck-admin.php:1266
+#: ignitiondeck-admin.php:1396
+msgid "Asked Questions"
+msgstr "Questions?"
+
+#: ignitiondeck-admin.php:1391
+msgid "Settings"
+msgstr "ParamÃ¨tres"
+
+#: ignitiondeck-admin.php:1392
+msgid "Payment Settings"
+msgstr "ParamÃ¨tres de paiment"
+
+#: ignitiondeck-admin.php:1393
+msgid "Order Details"
+msgstr "DÃ©tails des commandes"
+
+#: ignitiondeck-admin.php:1394
+msgid "Email List Settings"
+msgstr "Liste de courriels"
+
+#: ignitiondeck-admin.php:1395
+msgid "Social Settings"
+msgstr "ParamÃ¨tres sociaux"
+
+#: ignitiondeck-admin.php:1397
+msgid "Product Settings"
+msgstr "ParamÃ¨tres des Produits"
+
+#: ignitiondeck-admin.php:1398
+msgid "Payment Form"
+msgstr "Formulaire de paiment"
+
+#: ignitiondeck-admin_bk_24-Nov-2011.php:24
+msgid "Products"
+msgstr "Produits"
+
+#: ignitiondeck-admin_bk_24-Nov-2011.php:26
+#: ignitiondeck-admin_bk_24-Nov-2011.php:27
+msgid "Add New Product"
+msgstr "Ajouter un nouveau produit"
+
+#: ignitiondeck-admin_bk_24-Nov-2011.php:29
+msgid "Edit Product"
+msgstr "Editer un produit"
+
+#: ignitiondeck-admin_bk_24-Nov-2011.php:30
+msgid "New Product"
+msgstr "Nouveau Produit"
+
+#: ignitiondeck-admin_bk_24-Nov-2011.php:31
+#: ignitiondeck-admin_bk_24-Nov-2011.php:32
+msgid "View Product"
+msgstr "Afficher un produit"
+
+#: ignitiondeck-admin_bk_24-Nov-2011.php:33
+msgid "Search Product"
+msgstr "Rechercher un produit"
+
+#: ignitiondeck.php:407
+msgid "Widget to show products"
+msgstr "Widget de produits"
+
+#: ignitiondeck.php:411
+msgid "IgnitionDeck Product Widget"
+msgstr "Widget IgnitionDeck"
+
+#: ignitiondeck.php:682
+msgid "About the Product"
+msgstr "Apropos du produit"
+
+#: ignitiondeck.php:697
+msgid "The Product FAQ's"
+msgstr "FAQ du produit"
+
+#: ignitiondeck.php:704
+msgid "Updates"
+msgstr "Mise a jour"
+
+#: ignitiondeck.php:710
+msgid "Buyers"
+msgstr "Acheteurs"
+
+#: ignitiondeck.php:735
+msgid "redirecting to paypal..."
+msgstr "Redirection vers paypal"
+
+#: ignitiondeck.php:978
+msgid "twitter.connection.failed"
+msgstr "connection a twitter impossible"
+
+#: ignitiondeck.php:1029
+msgid "Error occured let's try again"
+msgstr "une erreure s'est produite"
+
+#: ignitiondeck.php:1070
+msgid "twitter.share.success"
+msgstr "PostÃ© sur twitter!"
+
+#: ignitiondeck.php:1072
+msgid "twitter.share.failed"
+msgstr "impossible de poster sur twitter"
+
+#: ignitiondeck.php:1161
+msgid "facebook.share.success"
+msgstr "PostÃ© sur facebook!"
+
+#: ignitiondeck.php:1167
+msgid "facebook.share.failed"
+msgstr "impossible de poster sur facebook"
+
+#: ignitiondeck.php:1249
+#, php-format
+msgid "IgnitionDeck: %s sent a Question"
+msgstr "IgnitionDeck: %s a posÃ© une question"
+
+#: ignitiondeck.php:1252
+msgid "Name"
+msgstr "Nom"
+
+#: ignitiondeck.php:1256
+msgid "Email"
+msgstr "Courriel"
+
+#: ignitiondeck.php:1260
+msgid "Subject"
+msgstr "Sujet"
+
+#: ignitiondeck.php:1264
+msgid "Message"
+msgstr "Message"
+
+#: ignitiondeck.php:1605
+#: ignitiondeck.php:1613
+msgid "Level"
+msgstr "Niveau"
+
+#: ignitiondeck.php:1605
+#: ignitiondeck.php:1613
+msgid "Price"
+msgstr "Prix"
+
+#: inc/ylsy_permalink_redirect.php:62
+msgid "Update Options"
+msgstr "Options de mise a jour"
+
+#: templates/_askQuestion.php:6
+msgid "Contact Form"
+msgstr "Contactez-nous"
+
+#: templates/_askQuestion.php:28
+msgid "Send email"
+msgstr "Envoyer un courriel"
+
+#: templates/_askQuestion.php:29
+msgid "Clear"
+msgstr "Recommencer"
+
+#: templates/_igWidget.php:31
+msgid "This will be funded on"
+msgstr "Le projet se termine le"
+
+#: templates/_igWidget.php:38
+msgid "Learn More"
+msgstr "Plus d'infos"
+
+#: templates/_igWidget.php:38
+msgid "Support This Project"
+msgstr "Supporter ce projet"
+
+#: templates/_igWidget.php:64
+msgid "Our Earliest Buyers"
+msgstr "Nos premiers investisseurs"
+
+#: templates/_igWidget.php:79
+msgid "Ask A Question"
+msgstr "Poser une question"
+
+#: templates/_igWidget.php:87
+msgid "Crowdfunding by IgnitionDeck"
+msgstr "Crowdfunding par IgnitionDeck"
+
+#: templates/_igWidget.php:87
+msgid "Powered By IgnitionDeck"
+msgstr "Powered By IgnitionDeck"
+
+#: templates/_igWidget.php:128
+msgid "Payment Information"
+msgstr "Informations de paiement"
+
+#: templates/_igWidget.php:136
+msgid "First Name"
+msgstr "PrÃ©nom"
+
+#: templates/_igWidget.php:145
+msgid "Last Name"
+msgstr "Nom"
+
+#: templates/_igWidget.php:163
+msgid "Address"
+msgstr "Addresse"
+
+#: templates/_igWidget.php:172
+msgid "Country"
+msgstr "Pays"
+
+#: templates/_igWidget.php:181
+msgid "State"
+msgstr "Ã‰tat/Province"
+
+#: templates/_igWidget.php:190
+msgid "City"
+msgstr "Ville"
+
+#: templates/_igWidget.php:199
+msgid "Zip"
+msgstr "Zip/Code Postal"
+
+#: templates/_igWidget.php:229
+msgid "Make Payment"
+msgstr "Faire un paiment"
+
+#: templates/_igWidget.php:249
+msgid "Funding"
+msgstr "Fonds"
+
+#: templates/_igWidget.php:250
+msgid "Total Sale"
+msgstr "Ventes totales"
+
+#: templates/_sharebuttons.php:4
+#: templates/_socialSharingOptions.php:30
+msgid "Facebook"
+msgstr "Facebook"
+
+#: templates/_sharebuttons.php:7
+#: templates/_sharebuttons.php:16
+msgid "Yes"
+msgstr "Oui"
+
+#: templates/_sharebuttons.php:8
+#: templates/_sharebuttons.php:17
+msgid "No"
+msgstr "Non"
+
+#: templates/_sharebuttons.php:13
+#: templates/_socialSharingOptions.php:39
+msgid "Twitter"
+msgstr "Twitter"
+
+#: templates/_socialSharingOptions.php:11
+msgid "Please share your experience with your friends!"
+msgstr "Parlez en a vos amis!"
+
+#: templates/admin/_aweberSettings.php:6
+#: templates/admin/_emailSettings.php:41
+#: templates/admin/_mailchimpSettings.php:6
+msgid "API key"
+msgstr "ClÃ© API"
+
+#: templates/admin/_aweberSettings.php:10
+msgid "Subscription Email"
+msgstr "Courriel "
+
+#: templates/admin/_emailSettings.php:5
+msgid "Aweber Settings"
+msgstr "ParamÃ¨tres Aweber"
+
+#: templates/admin/_emailSettings.php:7
+#: templates/admin/_emailSettings.php:37
+msgid "Make Active"
+msgstr "Activer"
+
+#: templates/admin/_emailSettings.php:11
+msgid "Consumer Key"
+msgstr "Consumer Key"
+
+#: templates/admin/_emailSettings.php:15
+msgid "Consumer Secret"
+msgstr "Consumer Secret"
+
+#: templates/admin/_emailSettings.php:19
+msgid "List Email Id"
+msgstr "List Email Id"
+
+#: templates/admin/_emailSettings.php:35
+msgid "Mailchimp Settings"
+msgstr "ParamÃ¨tres MailChimp"
+
+#: templates/admin/_emailSettings.php:45
+#: templates/admin/_mailchimpSettings.php:10
+msgid "List id"
+msgstr "List id"
+
+#: templates/admin/_embedWidget.php:2
+msgid "Embed Widget Code"
+msgstr "Code d'intÃ©gration"
+
+#: templates/admin/_embedWidget.php:6
+msgid "Select Product to Create Embed Code for"
+msgstr "Selection le produit a intÃ©grer"
+
+#: templates/admin/_embedWidget.php:21
+msgid "Embed Code"
+msgstr "Code"
+
+#: templates/admin/_facebookApplication.php:4
+msgid "Application Id"
+msgstr "Application Id"
+
+#: templates/admin/_facebookApplication.php:8
+msgid "Application secret key"
+msgstr "Application secret key"
+
+#: templates/admin/_facebookApplication.php:13
+msgid "Text to share"
+msgstr "Text a partager"
+
+#: templates/admin/_mailchimpSettings.php:2
+msgid "Mail chimp Settings"
+msgstr "ParamÃ¨tres MailChimp"
+
+#: templates/admin/_orderAdd.php:19
+#: templates/admin/_orderEdit.php:16
+#: templates/admin/_orderView.php:18
+msgid "Email Address"
+msgstr "Courriel"
+
+#: templates/admin/_orderAdd.php:39
+#: templates/admin/_orderEdit.php:36
+#: templates/admin/_orderView.php:38
+msgid "Zip Code"
+msgstr "Zip/Code Postal"
+
+#: templates/admin/_orderAdd.php:43
+#: templates/admin/_orderDetails.php:10
+#: templates/admin/_orderEdit.php:50
+msgid "Status"
+msgstr "Status"
+
+#: templates/admin/_orderAdd.php:45
+#: templates/admin/_orderDetails.php:39
+#: templates/admin/_orderEdit.php:52
+msgid "Pending"
+msgstr "En attente"
+
+#: templates/admin/_orderAdd.php:46
+#: templates/admin/_orderEdit.php:53
+msgid "Complete"
+msgstr "ComplÃ©tÃ©"
+
+#: templates/admin/_orderAdd.php:61
+#: templates/admin/_orderView.php:53
+#: templates/admin/_productEdit.php:28
+#: templates/admin/_productSettings.php:201
+msgid "Product Name"
+msgstr "Nom du produit"
+
+#: templates/admin/_orderAdd.php:73
+msgid "Product Level"
+msgstr "Niveau du produit"
+
+#: templates/admin/_orderAdd.php:75
+msgid "Select Product"
+msgstr "Selectionnez le produit"
+
+#: templates/admin/_orderDetails.php:3
+msgid "Add Order"
+msgstr "Ajouter une commande"
+
+#: templates/admin/_orderDetails.php:11
+#: templates/admin/_productList.php:14
+#: templates/admin/_productSettings.php:202
+#: templates/admin/_questionView.php:33
+msgid "Action"
+msgstr "Action"
+
+#: templates/admin/_orderDetails.php:27
+msgid "Orders"
+msgstr "Commandes"
+
+#: templates/admin/_orderDetails.php:39
+msgid "Completed"
+msgstr "ComplÃ©tÃ©es"
+
+#: templates/admin/_orderDetails.php:40
+#: templates/admin/_questionView.php:41
+msgid "View"
+msgstr "Voir"
+
+#: templates/admin/_orderDetails.php:40
+msgid "Are you sure, you want to delete this Order by"
+msgstr "Etes vous sur de vouloir supprimer cette commande par"
+
+#: templates/admin/_orderDetails.php:40
+#: templates/admin/_productList.php:22
+#: templates/admin/_questionView.php:41
+msgid "Delete"
+msgstr "Supprimer"
+
+#: templates/admin/_orderEdit.php:12
+msgid "Last Email"
+msgstr "Dernier Courriel"
+
+#: templates/admin/_orderRefund.php:16
+msgid "Paypal Refund"
+msgstr "Remboursement Paypal"
+
+#: templates/admin/_orderRefund.php:19
+msgid "Pay Key"
+msgstr "Pay Key"
+
+#: templates/admin/_orderRefund.php:19
+msgid "Transaction ID"
+msgstr "Transaction ID"
+
+#: templates/admin/_orderRefund.php:24
+#: templates/admin/_productSettings.php:28
+#: templates/admin/_productSettings.php:123
+msgid "Currency Code"
+msgstr "Code de devise"
+
+#: templates/admin/_orderRefund.php:45
+msgid "Refund"
+msgstr "Remboursement"
+
+#: templates/admin/_orderView.php:62
+msgid "Level Price"
+msgstr "Prix du niveau"
+
+#: templates/admin/_orderView.php:66
+msgid "Level Description"
+msgstr "Description du niveau"
+
+#: templates/admin/_paymentSettings.php:10
+msgid "PayPal Identity Token"
+msgstr "PayPal Identity Token"
+
+#: templates/admin/_paymentSettings.php:14
+msgid "PayPal Email"
+msgstr "Courriel paypal"
+
+#: templates/admin/_paymentSettings.php:18
+msgid "PayPal Override"
+msgstr "PayPal Override"
+
+#: templates/admin/_paymentSettings.php:25
+#: templates/admin/_productEdit.php:46
+msgid "Cancel"
+msgstr "Annuler"
+
+#: templates/admin/_productEdit.php:18
+msgid "Product Image"
+msgstr "Image du produit"
+
+#: templates/admin/_productEdit.php:20
+msgid "Change"
+msgstr "Modifier"
+
+#: templates/admin/_productEdit.php:23
+msgid "Close"
+msgstr "Fermer"
+
+#: templates/admin/_productEdit.php:32
+msgid "Product Details"
+msgstr "Details du produit"
+
+#: templates/admin/_productEdit.php:36
+msgid "Product Price"
+msgstr "Prix du produit"
+
+#: templates/admin/_productEdit.php:40
+msgid "Goal"
+msgstr "But"
+
+#: templates/admin/_productList.php:5
+msgid "Add Product"
+msgstr "Ajouter un produit"
+
+#: templates/admin/_productList.php:11
+#: templates/admin/_questionView.php:30
+msgid "Sr. no"
+msgstr "Sr. no"
+
+#: templates/admin/_productList.php:12
+msgid "Image"
+msgstr "Image"
+
+#: templates/admin/_productSettings.php:9
+msgid "Mailchimp API Key"
+msgstr "Mailchimp API Key"
+
+#: templates/admin/_productSettings.php:13
+msgid "Mailchimp List ID"
+msgstr "Mailchimp List ID"
+
+#: templates/admin/_productSettings.php:17
+msgid "Aweber Email"
+msgstr "Courriel Aweber"
+
+#: templates/admin/_productSettings.php:21
+msgid "Active Settings"
+msgstr "ParamÃ¨tres ActivÃ©s"
+
+#: templates/admin/_productSettings.php:54
+#: templates/admin/_productSettings.php:146
+msgid "Field name"
+msgstr "Nom du champ"
+
+#: templates/admin/_productSettings.php:55
+#: templates/admin/_productSettings.php:147
+msgid "Enabled"
+msgstr "ActivÃ©"
+
+#: templates/admin/_productSettings.php:56
+#: templates/admin/_productSettings.php:148
+msgid "Mandatory"
+msgstr "Obligatoire"
+
+#: templates/admin/_productSettings.php:59
+#: templates/admin/_productSettings.php:151
+msgid "First name"
+msgstr "PrÃ©nom"
+
+#: templates/admin/_productSettings.php:64
+#: templates/admin/_productSettings.php:156
+msgid "Last name"
+msgstr "nom"
+
+#: templates/admin/_productSettings.php:119
+msgid "Default Product Settings"
+msgstr "ParamÃ¨tres par default"
+
+#: templates/admin/_productSettings.php:197
+msgid "Custom Pre-Product Settings"
+msgstr "ParamÃ¨tres personalisÃ©s"
+
+#: templates/admin/_productSettings.php:200
+msgid "Product ID"
+msgstr "Product ID"
+
+#: templates/admin/_questionView.php:4
+msgid "Question Details"
+msgstr "DÃ©tails de la question"
+
+#: templates/admin/_questionView.php:31
+msgid "Question Subject"
+msgstr "Sujet"
+
+#: templates/admin/_questionView.php:32
+msgid "Created Date"
+msgstr "Date de crÃ©ation"
+
+#: templates/admin/_settingsIgnDeck.php:2
+msgid "General Settings"
+msgstr "ParamÃ¨tres GÃ©nÃ©raux"
+
+#: templates/admin/_settingsIgnDeck.php:7
+msgid "Ignition Deck Logo"
+msgstr "Ignition Deck Logo"
+
+#: templates/admin/_settingsIgnDeck.php:8
+msgid "This allows you to deactivate the 'Powered By IgnitionDeck' logo that would appear at the bottom of the Widget."
+msgstr "DÃ©sactiver le logo IgnitionDeck au bas de la page"
+
+#: templates/admin/_settingsIgnDeck.php:11
+msgid "Facebook on Product Page"
+msgstr "Facebook sur la page de produit"
+
+#: templates/admin/_settingsIgnDeck.php:12
+msgid "Want people to share via Facebook from your Product Page?  Use this."
+msgstr "permettre le partage via Facebook"
+
+#: templates/admin/_settingsIgnDeck.php:15
+msgid "Twitter on Product Page"
+msgstr "Twitter sur la page de produit"
+
+#: templates/admin/_settingsIgnDeck.php:19
+msgid "Ask A Question Button"
+msgstr "Boutton de question"
+
+#: templates/admin/_settingsIgnDeck.php:21
+msgid "Enable or disable Ask A Question button on the Widget"
+msgstr "Activer/desactiver le bouton de question sur le widget"
+
+#: templates/admin/_settingsIgnDeck.php:24
+msgid "Ask A Question Email"
+msgstr "Courriel"
+
+#: templates/admin/_settingsIgnDeck.php:26
+msgid "Email address to which the question should be sent"
+msgstr "Courriel ou envoyer les questions"
+
+#: templates/admin/_settingsIgnDeck.php:29
+msgid "Widget Theme"
+msgstr "Theme du widget"
+
+#: templates/admin/_settingsIgnDeck.php:31
+msgid "IgnitionDeck"
+msgstr "IgnitionDeck"
+
+#: templates/admin/_settingsIgnDeck.php:32
+msgid "Clean"
+msgstr "Effacer"
+
+#: templates/admin/_settingsIgnDeck.php:33
+msgid "Skyscraper"
+msgstr "Skyscraper"
+
+#: templates/admin/_settingsIgnDeck.php:34
+msgid "Corporate"
+msgstr "Compagnie"
+
+#: templates/admin/_settingsIgnDeck.php:35
+msgid "Supporter Exclusive"
+msgstr "Supporter exclusif"
+
+#: templates/admin/_twitterApplication.php:4
+msgid "Consumer key"
+msgstr "Consumer key"
+
+#: templates/admin/_twitterApplication.php:8
+msgid "Consumer secret"
+msgstr "Consumer secret"
+
+#: templates/admin/_twitterApplication.php:13
+msgid "Callback URL"
+msgstr "Callback URL"
+
