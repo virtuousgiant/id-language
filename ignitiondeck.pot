@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: IgnitionDeck\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-08-10 14:44-0500\n"
-"PO-Revision-Date: 2012-08-10 15:10-0500\n"
+"POT-Creation-Date: 2012-08-10 14:40-0500\n"
+"PO-Revision-Date: 2012-08-10 14:43-0500\n"
 "Last-Translator: Nathan Hangen <nathan@virtuousgiant.com>\n"
 "Language-Team: Virtuous Giant <info@virtuousgiant.com>\n"
 "MIME-Version: 1.0\n"
@@ -267,9 +267,9 @@ msgid "Facebook.share.failed"
 msgstr "Facebook.share.failed"
 
 #: text_variables.php:65
-#, fuzzy, php-format
+#, php-format
 msgid "IgnitionDeck: %s sent a question"
-msgstr "IgnitionDeck: %s sent a Question"
+msgstr "IgnitionDeck: %s sent a question"
 
 #: text_variables.php:66
 msgid "Name"
@@ -689,12 +689,14 @@ msgid "Facebook on Project Page"
 msgstr "Facebook on Project Page"
 
 #: text_variables.php:171
+#, fuzzy
 msgid "Want people to share via Facebook from your project page?  Use this."
-msgstr "Want people to share via Facebook from your project page?  Use this."
+msgstr "Want people to share via Facebook from your Project Page?  Use this."
 
 #: text_variables.php:172
+#, fuzzy
 msgid "Want people to share via Twitter from your project page?  Use this."
-msgstr "Want people to share via Twitter from your project page?  Use this."
+msgstr "Want people to share via Twitter from your Project Page?  Use this."
 
 #: text_variables.php:173
 msgid "Twitter on Project Page"
@@ -706,41 +708,38 @@ msgid "LinkedIn on Project Page"
 msgstr "Twitter on Project Page"
 
 #: text_variables.php:177
+#, fuzzy
 msgid "Want people to share via LinkedIn from your project page?  Use this."
-msgstr "Want people to share via LinkedIn from your project page?  Use this."
+msgstr "Want people to share via Twitter from your Project Page?  Use this."
 
 #: text_variables.php:178
-#, fuzzy
 msgid "Want people to share via Google+ from your project page?  Use this."
-msgstr "Want people to share via Facebook from your Project Page?  Use this."
+msgstr "Want people to share via Google+ from your project page?  Use this."
 
 #: text_variables.php:179
+#, fuzzy
 msgid "Google+ on Project Page"
-msgstr "Google+ on Project Page"
+msgstr "Facebook on Project Page"
 
 #: text_variables.php:180
 msgid "Want people to share via Pinterest from your project page?  Use this."
 msgstr "Want people to share via Pinterest from your project page?  Use this."
 
 #: text_variables.php:181
-#, fuzzy
 msgid "Pinterest on Project Page"
-msgstr "Twitter on Project Page"
+msgstr "Pinterest on Project Page"
 
 #: text_variables.php:183
-#, fuzzy
 msgid "Ask a Question Button"
-msgstr "Ask A Question Button"
+msgstr "Ask a Question Button"
 
 #: text_variables.php:184
-#, fuzzy
 msgid "Enable or disable ask a question button on the widget"
-msgstr "Enable or disable Ask A Question button on the Widget"
+msgstr "Enable or disable ask a question button on the widget"
 
 #: text_variables.php:185
-#, fuzzy
 msgid "Ask a Question Email"
-msgstr "Ask A Question Email"
+msgstr "Ask a Question Email"
 
 #: text_variables.php:186
 msgid "Email address to which the question should be sent"
@@ -795,23 +794,20 @@ msgid "Add Project"
 msgstr "Add Project"
 
 #: text_variables.php:200
-#, fuzzy
 msgid "This allows you to activate and share via the 'Powered By IgnitionDeck' logo that would appear at the bottom of the widget."
-msgstr "This allows you to deactivate the 'Powered By IgnitionDeck' logo that would appear at the bottom of the Widget."
+msgstr "This allows you to activate and share via the 'Powered By IgnitionDeck' logo that would appear at the bottom of the widget."
 
 #: text_variables.php:201
 msgid "Name of the Project (Required)"
 msgstr "Name of the Project (Required)"
 
 #: text_variables.php:202
-#, fuzzy
 msgid "Price for Level 1"
-msgstr "First Price Level"
+msgstr "Price for Level 1"
 
 #: text_variables.php:203
-#, fuzzy
 msgid "Price of the first reward level for your project (required)."
-msgstr "Price of the project (Level 1) (required)."
+msgstr "Price of the first reward level for your project (required)."
 
 #: text_variables.php:204
 msgid "Description for level 1."
@@ -846,18 +842,16 @@ msgid "Embed Video Code (YouTube, Vimeo, Viddler)."
 msgstr "Embed Video Code (YouTube, Vimeo, Viddler)."
 
 #: text_variables.php:212
-#, fuzzy
 msgid "Main Project Image"
-msgstr "Project Image"
+msgstr "Main Project Image"
 
 #: text_variables.php:213
 msgid "Image 1 - Shortcode: [product_image product=\"1\" image=\"1\"]"
 msgstr "Image 1 - Shortcode: [product_image product=\"1\" image=\"1\"]"
 
 #: text_variables.php:214
-#, fuzzy
 msgid "Image 2"
-msgstr "Image"
+msgstr "Image 2"
 
 #: text_variables.php:215
 msgid "Image 2 - Shortcode: [product_image product=\"1\" image=\"2\"]"
@@ -872,9 +866,8 @@ msgid "Image 3 - Shortcode: [product_image product=\"1\" image=\"3\"]"
 msgstr "Image 3 - Shortcode: [product_image product=\"1\" image=\"3\"]"
 
 #: text_variables.php:218
-#, fuzzy
 msgid "Image 4"
-msgstr "Image"
+msgstr "Image 4"
 
 #: text_variables.php:219
 msgid "Image 4 - Shortcode: [product_image product=\"1\" image=\"4\"]"
@@ -1041,9 +1034,8 @@ msgid "Pledged"
 msgstr "Pledged"
 
 #: text_variables.php:260
-#, fuzzy
 msgid "Price for Level "
-msgstr "First Price Level"
+msgstr "Price for Level "
 
 #: text_variables.php:261
 msgid "Total Contribution"
@@ -1058,19 +1050,16 @@ msgid "Description for Level "
 msgstr "Description for Level "
 
 #: text_variables.php:264
-#, fuzzy
 msgid "Add Level"
-msgstr "Level"
+msgstr "Add Level"
 
 #: text_variables.php:265
-#, fuzzy
 msgid "Project Reward Levels"
-msgstr "Project Level"
+msgstr "Project Reward Levels"
 
 #: text_variables.php:266
-#, fuzzy
 msgid "Additional Project Information"
-msgstr "Payment Information"
+msgstr "Additional Project Information"
 
 #: text_variables.php:267
 msgid "Awesome! You are about to become a supporter of"
@@ -1089,14 +1078,16 @@ msgid "Publishable Key"
 msgstr "Publishable Key"
 
 #: text_variables.php:271
-#, fuzzy
 msgid "Payment Method"
-msgstr "Payment Form"
+msgstr "Payment Method"
 
 #: text_variables.php:272
 #, fuzzy
 msgid "Payment Method Selection"
 msgstr "Payment Settings"
+
+#~ msgid "First Price Level"
+#~ msgstr "First Price Level"
 
 #~ msgid "First price level description."
 #~ msgstr "First price level description."

@@ -2,9 +2,9 @@ msgid ""
 msgstr ""
 "Project-Id-Version: IgnitionDeck\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2011-11-28 16:48+0500\n"
-"PO-Revision-Date: 2012-01-21 18:33-0500\n"
-"Last-Translator: \n"
+"POT-Creation-Date: 2012-08-10 14:40-0500\n"
+"PO-Revision-Date: 2012-08-10 15:13-0500\n"
+"Last-Translator: Nathan Hangen <nathan@virtuousgiant.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -15,862 +15,1195 @@ msgstr ""
 "X-Poedit-Country: CANADA\n"
 "X-Poedit-SearchPath-0: .\n"
 
-#: ignitiondeck-admin.php:24
+#: text_variables.php:2
+#: text_variables.php:150
 msgid "Projects"
 msgstr "Projets"
 
-#: ignitiondeck-admin.php:25
+#: text_variables.php:3
+#: text_variables.php:12
 msgid "Project"
 msgstr "Projet"
 
-#: ignitiondeck-admin.php:26
-#: ignitiondeck-admin.php:27
+#: text_variables.php:4
 msgid "Add New Project"
 msgstr "Ajouter un nouveau projet"
 
-#: ignitiondeck-admin.php:28
-#: ignitiondeck-admin_bk_24-Nov-2011.php:28
+#: text_variables.php:5
+#: text_variables.php:126
 msgid "Edit"
 msgstr "Edition"
 
-#: ignitiondeck-admin.php:29
+#: text_variables.php:6
+#: text_variables.php:198
 msgid "Edit Project"
 msgstr "Editer le Projet"
 
-#: ignitiondeck-admin.php:30
+#: text_variables.php:7
 msgid "New Project"
 msgstr "Nouveau"
 
-#: ignitiondeck-admin.php:31
-#: ignitiondeck-admin.php:32
+#: text_variables.php:8
 msgid "View Project"
 msgstr "Visualiser"
 
-#: ignitiondeck-admin.php:33
+#: text_variables.php:9
 msgid "Search Project"
 msgstr "Rechercher"
 
-#: ignitiondeck-admin.php:34
-#: ignitiondeck-admin_bk_24-Nov-2011.php:34
-msgid "No Products found"
+#: text_variables.php:10
+#, fuzzy
+msgid "No Projects Found"
 msgstr "Aucun produits trouvÃ©"
 
-#: ignitiondeck-admin.php:35
-#: ignitiondeck-admin_bk_24-Nov-2011.php:35
-msgid "No Products found in Trash"
+#: text_variables.php:11
+#, fuzzy
+msgid "No Projects Found in Trash"
 msgstr "Aucun produits trouvÃ© dans les Ã©lÃ©ments supprimÃ©s"
 
-#: ignitiondeck-admin.php:58
-#: ignitiondeck-admin_bk_24-Nov-2011.php:25
-#: ignitiondeck-admin_bk_24-Nov-2011.php:58
-msgid "Product"
-msgstr "Produit"
-
-#: ignitiondeck-admin.php:59
-#: ignitiondeck-admin_bk_24-Nov-2011.php:59
+#: text_variables.php:13
 msgid "Funding Goal"
 msgstr "Cible"
 
-#: ignitiondeck-admin.php:60
-#: ignitiondeck-admin_bk_24-Nov-2011.php:60
+#: text_variables.php:14
 msgid "End Date"
 msgstr "Date de fin"
 
-#: ignitiondeck-admin.php:61
-#: ignitiondeck-admin_bk_24-Nov-2011.php:61
+#: text_variables.php:15
 msgid "Days Remaining"
 msgstr "Jours restants"
 
-#: ignitiondeck-admin.php:79
+#: text_variables.php:16
 msgid "No funding goal set"
 msgstr "Aucun but dÃ©fini"
 
-#: ignitiondeck-admin.php:88
-#: ignitiondeck-admin.php:102
+#: text_variables.php:17
 msgid "No date set"
 msgstr "Aucune date definie"
 
-#: ignitiondeck-admin.php:130
+#: text_variables.php:18
 msgid "Enter Project Name Here"
 msgstr "Entrez le nom du projet"
 
-#: ignitiondeck-admin.php:169
-#: ignitiondeck-admin.php:1104
+#: text_variables.php:19
 msgid "Add"
 msgstr "Ajouter"
 
-#: ignitiondeck-admin.php:187
-#: ignitiondeck-admin.php:228
-#: ignitiondeck-admin.php:239
-#: ignitiondeck-admin.php:254
-#: ignitiondeck-admin.php:292
-#: ignitiondeck-admin.php:304
-#: ignitiondeck-admin.php:370
-#: ignitiondeck-admin.php:419
-#: ignitiondeck-admin.php:456
-#: ignitiondeck-admin.php:506
-#: ignitiondeck-admin.php:541
-#: ignitiondeck-admin.php:1121
-#: ignitiondeck-admin.php:1231
+#: text_variables.php:20
 msgid "Update"
 msgstr "Mise a jour"
 
-#: ignitiondeck-admin.php:203
+#: text_variables.php:21
 msgid "IgnitionDeck Control Panel"
 msgstr "Panneau de controle"
 
-#: ignitiondeck-admin.php:218
-#: ignitiondeck-admin.php:279
+#: text_variables.php:22
 msgid "Facebook Application Settings"
 msgstr "ParamÃ¨tres Facebook"
 
-#: ignitiondeck-admin.php:222
-#: ignitiondeck-admin.php:239
-#: ignitiondeck-admin.php:247
-#: ignitiondeck-admin.php:284
-#: ignitiondeck-admin.php:304
-#: ignitiondeck-admin.php:362
-#: ignitiondeck-admin.php:400
-#: ignitiondeck-admin.php:444
-#: ignitiondeck-admin.php:493
-#: ignitiondeck-admin.php:535
-#: ignitiondeck-admin.php:1211
+#: text_variables.php:23
 msgid "Save"
 msgstr "Sauveguarder"
 
-#: ignitiondeck-admin.php:225
-#: ignitiondeck-admin.php:231
-#: ignitiondeck-admin.php:296
+#: text_variables.php:24
 msgid "Facebook settings have been successfully updated."
 msgstr "les paramÃ¨tres Facebook ont Ã©tÃ© sauveguardÃ©"
 
-#: ignitiondeck-admin.php:244
-#: ignitiondeck-admin.php:360
+#: text_variables.php:25
 msgid "Twitter Application Settings"
 msgstr "ParamÃ¨tres Twitter"
 
-#: ignitiondeck-admin.php:251
-#: ignitiondeck-admin.php:258
-#: ignitiondeck-admin.php:374
+#: text_variables.php:26
 msgid "Twitter settings have been successfully updated."
 msgstr "les paramÃ¨tres Twitter ont Ã©tÃ© sauveguardÃ©"
 
-#: ignitiondeck-admin.php:288
-msgid "Facebook settings have been successfully saved."
-msgstr "les paramÃ¨tres Facebook ont Ã©tÃ© sauveguardÃ©"
-
-#: ignitiondeck-admin.php:322
-#: ignitiondeck-admin.php:562
-#: ignitiondeck-admin.php:1160
-msgid "Save Settings"
-msgstr "Sauveguarder"
-
-#: ignitiondeck-admin.php:325
-#: ignitiondeck-admin.php:1172
+#: text_variables.php:28
 msgid "Settings saved."
 msgstr "SauveguardÃ©!"
 
-#: ignitiondeck-admin.php:328
-#: ignitiondeck-admin.php:1175
+#: text_variables.php:29
+msgid "Save Settings"
+msgstr "Sauveguarder"
+
+#: text_variables.php:30
 msgid "Update Settings"
 msgstr "Mise a jour"
 
-#: ignitiondeck-admin.php:332
+#: text_variables.php:31
 msgid "Form settings have been successfully updated."
 msgstr "le formulaire a Ã©tÃ© sauveguardÃ©"
 
-#: ignitiondeck-admin.php:367
+#: text_variables.php:32
 msgid "Twitter settings have been successfully saved."
 msgstr "les paramÃ¨tres Twitter ont Ã©tÃ© sauveguardÃ©"
 
-#: ignitiondeck-admin.php:415
-#: ignitiondeck-admin.php:502
+#: text_variables.php:33
 msgid "Aweber settings have been successfully saved."
 msgstr "les paramÃ¨tres Aweber ont Ã©tÃ© sauveguardÃ©"
 
-#: ignitiondeck-admin.php:431
-#: ignitiondeck-admin.php:513
-msgid "Aweber settings have been successfully Updated."
+#: text_variables.php:34
+#, fuzzy
+msgid "Aweber settings have been successfully updated."
 msgstr "les paramÃ¨tres Aweber ont Ã©tÃ© sauveguardÃ©"
 
-#: ignitiondeck-admin.php:453
-#: ignitiondeck-admin.php:538
+#: text_variables.php:35
 msgid "Mailchimp settings have been successfully saved."
 msgstr "les paramÃ¨tres Mailchimp ont Ã©tÃ© sauveguardÃ©"
 
-#: ignitiondeck-admin.php:465
-#: ignitiondeck-admin.php:543
-msgid "Mailchimp settings have been successfully Updated."
+#: text_variables.php:36
+#, fuzzy
+msgid "Mailchimp settings have been successfully updated."
 msgstr "les paramÃ¨tres MailChimp ont Ã©tÃ© sauveguardÃ©"
 
-#: ignitiondeck-admin.php:576
+#: text_variables.php:37
 msgid "Payment settings have been successfully saved."
 msgstr "les paramÃ¨tres de paiment ont Ã©tÃ© sauveguardÃ©"
 
-#: ignitiondeck-admin.php:632
+#: text_variables.php:38
 msgid "Please fill all fields."
 msgstr "Veuillez complÃ©ter tout les champs"
 
-#: ignitiondeck-admin.php:822
-msgid "Products successfully added."
+#: text_variables.php:39
+#, fuzzy
+msgid "Projects successfully added."
 msgstr "Produits sauveguardÃ©s"
 
-#: ignitiondeck-admin.php:826
-msgid "Products successfully updated."
-msgstr "Produits sauveguardÃ©s"
-
-#: ignitiondeck-admin.php:830
-msgid "Products successfully deleted."
-msgstr "Produits supprimÃ©s"
-
-#: ignitiondeck-admin.php:875
-#: ignitiondeck-admin.php:877
-#: ignitiondeck-admin.php:1313
-#: ignitiondeck-admin.php:1315
+#: text_variables.php:40
 msgid "previous"
 msgstr "prÃ©cÃ©dent"
 
-#: ignitiondeck-admin.php:936
-#: ignitiondeck-admin.php:938
-#: ignitiondeck-admin.php:1374
-#: ignitiondeck-admin.php:1376
+#: text_variables.php:41
 msgid "next"
 msgstr "suivant"
 
-#: ignitiondeck-admin.php:986
-msgid "Product have been successfully updated."
+#: text_variables.php:42
+#, fuzzy
+msgid "Project has been successfully updated."
 msgstr "Produits sauveguardÃ©s"
 
-#: ignitiondeck-admin.php:1189
+#: text_variables.php:43
 msgid "Settings have been successfully updated."
 msgstr "ParamÃ¨tres sauveguardÃ©s"
 
-#: ignitiondeck-admin.php:1266
-#: ignitiondeck-admin.php:1396
+#: text_variables.php:44
 msgid "Asked Questions"
 msgstr "Questions?"
 
-#: ignitiondeck-admin.php:1391
+#: text_variables.php:45
 msgid "Settings"
 msgstr "ParamÃ¨tres"
 
-#: ignitiondeck-admin.php:1392
+#: text_variables.php:46
 msgid "Payment Settings"
 msgstr "ParamÃ¨tres de paiment"
 
-#: ignitiondeck-admin.php:1393
+#: text_variables.php:47
 msgid "Order Details"
 msgstr "DÃ©tails des commandes"
 
-#: ignitiondeck-admin.php:1394
+#: text_variables.php:48
 msgid "Email List Settings"
 msgstr "Liste de courriels"
 
-#: ignitiondeck-admin.php:1395
+#: text_variables.php:49
 msgid "Social Settings"
 msgstr "ParamÃ¨tres sociaux"
 
-#: ignitiondeck-admin.php:1397
-msgid "Product Settings"
+#: text_variables.php:50
+#, fuzzy
+msgid "Project Settings"
 msgstr "ParamÃ¨tres des Produits"
 
-#: ignitiondeck-admin.php:1398
+#: text_variables.php:51
 msgid "Payment Form"
 msgstr "Formulaire de paiment"
 
-#: ignitiondeck-admin_bk_24-Nov-2011.php:24
-msgid "Products"
-msgstr "Produits"
+#: text_variables.php:52
+#, fuzzy
+msgid "Payment Form Settings"
+msgstr "ParamÃ¨tres de paiment"
 
-#: ignitiondeck-admin_bk_24-Nov-2011.php:26
-#: ignitiondeck-admin_bk_24-Nov-2011.php:27
-msgid "Add New Product"
-msgstr "Ajouter un nouveau produit"
-
-#: ignitiondeck-admin_bk_24-Nov-2011.php:29
-msgid "Edit Product"
-msgstr "Editer un produit"
-
-#: ignitiondeck-admin_bk_24-Nov-2011.php:30
-msgid "New Product"
-msgstr "Nouveau Produit"
-
-#: ignitiondeck-admin_bk_24-Nov-2011.php:31
-#: ignitiondeck-admin_bk_24-Nov-2011.php:32
-msgid "View Product"
-msgstr "Afficher un produit"
-
-#: ignitiondeck-admin_bk_24-Nov-2011.php:33
-msgid "Search Product"
-msgstr "Rechercher un produit"
-
-#: ignitiondeck.php:407
-msgid "Widget to show products"
+#: text_variables.php:53
+#, fuzzy
+msgid "Widget to show projects"
 msgstr "Widget de produits"
 
-#: ignitiondeck.php:411
-msgid "IgnitionDeck Product Widget"
+#: text_variables.php:54
+#, fuzzy
+msgid "IgnitionDeck Project Widget"
 msgstr "Widget IgnitionDeck"
 
-#: ignitiondeck.php:682
-msgid "About the Product"
+#: text_variables.php:55
+#, fuzzy
+msgid "About the Project"
 msgstr "Apropos du produit"
 
-#: ignitiondeck.php:697
-msgid "The Product FAQ's"
+#: text_variables.php:56
+#, fuzzy
+msgid "The Project FAQ's"
 msgstr "FAQ du produit"
 
-#: ignitiondeck.php:704
-msgid "Updates"
-msgstr "Mise a jour"
-
-#: ignitiondeck.php:710
+#: text_variables.php:57
 msgid "Buyers"
 msgstr "Acheteurs"
 
-#: ignitiondeck.php:735
-msgid "redirecting to paypal..."
+#: text_variables.php:58
+#, fuzzy
+msgid "Redirecting to Paypal..."
 msgstr "Redirection vers paypal"
 
-#: ignitiondeck.php:978
-msgid "twitter.connection.failed"
+#: text_variables.php:59
+#, fuzzy
+msgid "Twitter.connection.failed"
 msgstr "connection a twitter impossible"
 
-#: ignitiondeck.php:1029
+#: text_variables.php:60
 msgid "Error occured let's try again"
 msgstr "une erreure s'est produite"
 
-#: ignitiondeck.php:1070
-msgid "twitter.share.success"
+#: text_variables.php:61
+#, fuzzy
+msgid "Twitter.share.success"
 msgstr "PostÃ© sur twitter!"
 
-#: ignitiondeck.php:1072
-msgid "twitter.share.failed"
+#: text_variables.php:62
+#, fuzzy
+msgid "Twitter.share.failed"
 msgstr "impossible de poster sur twitter"
 
-#: ignitiondeck.php:1161
-msgid "facebook.share.success"
+#: text_variables.php:63
+#, fuzzy
+msgid "Facebook.share.success"
 msgstr "PostÃ© sur facebook!"
 
-#: ignitiondeck.php:1167
-msgid "facebook.share.failed"
+#: text_variables.php:64
+#, fuzzy
+msgid "Facebook.share.failed"
 msgstr "impossible de poster sur facebook"
 
-#: ignitiondeck.php:1249
-#, php-format
-msgid "IgnitionDeck: %s sent a Question"
+#: text_variables.php:65
+#, fuzzy, php-format
+msgid "IgnitionDeck: %s sent a question"
 msgstr "IgnitionDeck: %s a posÃ© une question"
 
-#: ignitiondeck.php:1252
+#: text_variables.php:66
 msgid "Name"
 msgstr "Nom"
 
-#: ignitiondeck.php:1256
+#: text_variables.php:67
 msgid "Email"
 msgstr "Courriel"
 
-#: ignitiondeck.php:1260
+#: text_variables.php:68
 msgid "Subject"
 msgstr "Sujet"
 
-#: ignitiondeck.php:1264
+#: text_variables.php:69
 msgid "Message"
 msgstr "Message"
 
-#: ignitiondeck.php:1605
-#: ignitiondeck.php:1613
+#: text_variables.php:70
 msgid "Level"
 msgstr "Niveau"
 
-#: ignitiondeck.php:1605
-#: ignitiondeck.php:1613
+#: text_variables.php:71
 msgid "Price"
 msgstr "Prix"
 
-#: inc/ylsy_permalink_redirect.php:62
+#: text_variables.php:72
 msgid "Update Options"
 msgstr "Options de mise a jour"
 
-#: templates/_askQuestion.php:6
+#: text_variables.php:73
 msgid "Contact Form"
 msgstr "Contactez-nous"
 
-#: templates/_askQuestion.php:28
+#: text_variables.php:74
 msgid "Send email"
 msgstr "Envoyer un courriel"
 
-#: templates/_askQuestion.php:29
+#: text_variables.php:75
 msgid "Clear"
 msgstr "Recommencer"
 
-#: templates/_igWidget.php:31
+#: text_variables.php:76
 msgid "This will be funded on"
 msgstr "Le projet se termine le"
 
-#: templates/_igWidget.php:38
+#: text_variables.php:77
 msgid "Learn More"
 msgstr "Plus d'infos"
 
-#: templates/_igWidget.php:38
+#: text_variables.php:78
 msgid "Support This Project"
 msgstr "Supporter ce projet"
 
-#: templates/_igWidget.php:64
+#: text_variables.php:79
 msgid "Our Earliest Buyers"
 msgstr "Nos premiers investisseurs"
 
-#: templates/_igWidget.php:79
+#: text_variables.php:80
 msgid "Ask A Question"
 msgstr "Poser une question"
 
-#: templates/_igWidget.php:87
+#: text_variables.php:81
 msgid "Crowdfunding by IgnitionDeck"
 msgstr "Crowdfunding par IgnitionDeck"
 
-#: templates/_igWidget.php:87
+#: text_variables.php:82
 msgid "Powered By IgnitionDeck"
 msgstr "Powered By IgnitionDeck"
 
-#: templates/_igWidget.php:128
+#: text_variables.php:83
 msgid "Payment Information"
 msgstr "Informations de paiement"
 
-#: templates/_igWidget.php:136
+#: text_variables.php:84
 msgid "First Name"
 msgstr "PrÃ©nom"
 
-#: templates/_igWidget.php:145
+#: text_variables.php:85
 msgid "Last Name"
 msgstr "Nom"
 
-#: templates/_igWidget.php:163
+#: text_variables.php:86
 msgid "Address"
 msgstr "Addresse"
 
-#: templates/_igWidget.php:172
+#: text_variables.php:87
 msgid "Country"
 msgstr "Pays"
 
-#: templates/_igWidget.php:181
+#: text_variables.php:88
 msgid "State"
 msgstr "Ã‰tat/Province"
 
-#: templates/_igWidget.php:190
+#: text_variables.php:89
 msgid "City"
 msgstr "Ville"
 
-#: templates/_igWidget.php:199
+#: text_variables.php:90
 msgid "Zip"
 msgstr "Zip/Code Postal"
 
-#: templates/_igWidget.php:229
+#: text_variables.php:91
 msgid "Make Payment"
 msgstr "Faire un paiment"
 
-#: templates/_igWidget.php:249
+#: text_variables.php:92
 msgid "Funding"
 msgstr "Fonds"
 
-#: templates/_igWidget.php:250
+#: text_variables.php:93
 msgid "Total Sale"
 msgstr "Ventes totales"
 
-#: templates/_sharebuttons.php:4
-#: templates/_socialSharingOptions.php:30
+#: text_variables.php:94
 msgid "Facebook"
 msgstr "Facebook"
 
-#: templates/_sharebuttons.php:7
-#: templates/_sharebuttons.php:16
+#: text_variables.php:95
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: text_variables.php:96
+msgid "Google+"
+msgstr "Google+"
+
+#: text_variables.php:97
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: text_variables.php:98
 msgid "Yes"
 msgstr "Oui"
 
-#: templates/_sharebuttons.php:8
-#: templates/_sharebuttons.php:17
+#: text_variables.php:99
 msgid "No"
 msgstr "Non"
 
-#: templates/_sharebuttons.php:13
-#: templates/_socialSharingOptions.php:39
+#: text_variables.php:100
 msgid "Twitter"
 msgstr "Twitter"
 
-#: templates/_socialSharingOptions.php:11
+#: text_variables.php:101
 msgid "Please share your experience with your friends!"
 msgstr "Parlez en a vos amis!"
 
-#: templates/admin/_aweberSettings.php:6
-#: templates/admin/_emailSettings.php:41
-#: templates/admin/_mailchimpSettings.php:6
+#: text_variables.php:102
 msgid "API key"
 msgstr "ClÃ© API"
 
-#: templates/admin/_aweberSettings.php:10
+#: text_variables.php:103
 msgid "Subscription Email"
 msgstr "Courriel "
 
-#: templates/admin/_emailSettings.php:5
+#: text_variables.php:104
 msgid "Aweber Settings"
 msgstr "ParamÃ¨tres Aweber"
 
-#: templates/admin/_emailSettings.php:7
-#: templates/admin/_emailSettings.php:37
+#: text_variables.php:105
 msgid "Make Active"
 msgstr "Activer"
 
-#: templates/admin/_emailSettings.php:11
-msgid "Consumer Key"
-msgstr "Consumer Key"
-
-#: templates/admin/_emailSettings.php:15
+#: text_variables.php:106
 msgid "Consumer Secret"
 msgstr "Consumer Secret"
 
-#: templates/admin/_emailSettings.php:19
+#: text_variables.php:107
 msgid "List Email Id"
 msgstr "List Email Id"
 
-#: templates/admin/_emailSettings.php:35
+#: text_variables.php:108
+#: text_variables.php:116
 msgid "Mailchimp Settings"
 msgstr "ParamÃ¨tres MailChimp"
 
-#: templates/admin/_emailSettings.php:45
-#: templates/admin/_mailchimpSettings.php:10
+#: text_variables.php:109
 msgid "List id"
 msgstr "List id"
 
-#: templates/admin/_embedWidget.php:2
+#: text_variables.php:110
 msgid "Embed Widget Code"
 msgstr "Code d'intÃ©gration"
 
-#: templates/admin/_embedWidget.php:6
-msgid "Select Product to Create Embed Code for"
+#: text_variables.php:111
+#, fuzzy
+msgid "Select Project to Create Embed Code for"
 msgstr "Selection le produit a intÃ©grer"
 
-#: templates/admin/_embedWidget.php:21
+#: text_variables.php:112
 msgid "Embed Code"
 msgstr "Code"
 
-#: templates/admin/_facebookApplication.php:4
+#: text_variables.php:113
 msgid "Application Id"
 msgstr "Application Id"
 
-#: templates/admin/_facebookApplication.php:8
+#: text_variables.php:114
 msgid "Application secret key"
 msgstr "Application secret key"
 
-#: templates/admin/_facebookApplication.php:13
+#: text_variables.php:115
 msgid "Text to share"
 msgstr "Text a partager"
 
-#: templates/admin/_mailchimpSettings.php:2
-msgid "Mail chimp Settings"
-msgstr "ParamÃ¨tres MailChimp"
-
-#: templates/admin/_orderAdd.php:19
-#: templates/admin/_orderEdit.php:16
-#: templates/admin/_orderView.php:18
+#: text_variables.php:117
 msgid "Email Address"
 msgstr "Courriel"
 
-#: templates/admin/_orderAdd.php:39
-#: templates/admin/_orderEdit.php:36
-#: templates/admin/_orderView.php:38
+#: text_variables.php:118
 msgid "Zip Code"
 msgstr "Zip/Code Postal"
 
-#: templates/admin/_orderAdd.php:43
-#: templates/admin/_orderDetails.php:10
-#: templates/admin/_orderEdit.php:50
+#: text_variables.php:119
 msgid "Status"
 msgstr "Status"
 
-#: templates/admin/_orderAdd.php:45
-#: templates/admin/_orderDetails.php:39
-#: templates/admin/_orderEdit.php:52
+#: text_variables.php:120
 msgid "Pending"
 msgstr "En attente"
 
-#: templates/admin/_orderAdd.php:46
-#: templates/admin/_orderEdit.php:53
+#: text_variables.php:121
 msgid "Complete"
 msgstr "ComplÃ©tÃ©"
 
-#: templates/admin/_orderAdd.php:61
-#: templates/admin/_orderView.php:53
-#: templates/admin/_productEdit.php:28
-#: templates/admin/_productSettings.php:201
-msgid "Product Name"
+#: text_variables.php:122
+#, fuzzy
+msgid "Project Name"
 msgstr "Nom du produit"
 
-#: templates/admin/_orderAdd.php:73
-msgid "Product Level"
+#: text_variables.php:123
+#, fuzzy
+msgid "Project Level"
 msgstr "Niveau du produit"
 
-#: templates/admin/_orderAdd.php:75
-msgid "Select Product"
+#: text_variables.php:124
+#, fuzzy
+msgid "Select Project"
 msgstr "Selectionnez le produit"
 
-#: templates/admin/_orderDetails.php:3
+#: text_variables.php:125
 msgid "Add Order"
 msgstr "Ajouter une commande"
 
-#: templates/admin/_orderDetails.php:11
-#: templates/admin/_productList.php:14
-#: templates/admin/_productSettings.php:202
-#: templates/admin/_questionView.php:33
-msgid "Action"
-msgstr "Action"
-
-#: templates/admin/_orderDetails.php:27
+#: text_variables.php:127
 msgid "Orders"
 msgstr "Commandes"
 
-#: templates/admin/_orderDetails.php:39
+#: text_variables.php:128
 msgid "Completed"
 msgstr "ComplÃ©tÃ©es"
 
-#: templates/admin/_orderDetails.php:40
-#: templates/admin/_questionView.php:41
+#: text_variables.php:129
 msgid "View"
 msgstr "Voir"
 
-#: templates/admin/_orderDetails.php:40
-msgid "Are you sure, you want to delete this Order by"
+#: text_variables.php:130
+#, fuzzy
+msgid "Are you sure you want to delete this order by"
 msgstr "Etes vous sur de vouloir supprimer cette commande par"
 
-#: templates/admin/_orderDetails.php:40
-#: templates/admin/_productList.php:22
-#: templates/admin/_questionView.php:41
+#: text_variables.php:131
 msgid "Delete"
 msgstr "Supprimer"
 
-#: templates/admin/_orderEdit.php:12
+#: text_variables.php:132
 msgid "Last Email"
 msgstr "Dernier Courriel"
 
-#: templates/admin/_orderRefund.php:16
+#: text_variables.php:133
 msgid "Paypal Refund"
 msgstr "Remboursement Paypal"
 
-#: templates/admin/_orderRefund.php:19
+#: text_variables.php:134
 msgid "Pay Key"
 msgstr "Pay Key"
 
-#: templates/admin/_orderRefund.php:19
+#: text_variables.php:135
 msgid "Transaction ID"
 msgstr "Transaction ID"
 
-#: templates/admin/_orderRefund.php:24
-#: templates/admin/_productSettings.php:28
-#: templates/admin/_productSettings.php:123
+#: text_variables.php:136
 msgid "Currency Code"
 msgstr "Code de devise"
 
-#: templates/admin/_orderRefund.php:45
+#: text_variables.php:137
 msgid "Refund"
 msgstr "Remboursement"
 
-#: templates/admin/_orderView.php:62
+#: text_variables.php:138
 msgid "Level Price"
 msgstr "Prix du niveau"
 
-#: templates/admin/_orderView.php:66
+#: text_variables.php:139
 msgid "Level Description"
 msgstr "Description du niveau"
 
-#: templates/admin/_paymentSettings.php:10
+#: text_variables.php:140
 msgid "PayPal Identity Token"
 msgstr "PayPal Identity Token"
 
-#: templates/admin/_paymentSettings.php:14
+#: text_variables.php:141
 msgid "PayPal Email"
 msgstr "Courriel paypal"
 
-#: templates/admin/_paymentSettings.php:18
+#: text_variables.php:142
 msgid "PayPal Override"
 msgstr "PayPal Override"
 
-#: templates/admin/_paymentSettings.php:25
-#: templates/admin/_productEdit.php:46
+#: text_variables.php:143
 msgid "Cancel"
 msgstr "Annuler"
 
-#: templates/admin/_productEdit.php:18
-msgid "Product Image"
+#: text_variables.php:144
+#, fuzzy
+msgid "Project Image"
 msgstr "Image du produit"
 
-#: templates/admin/_productEdit.php:20
+#: text_variables.php:145
 msgid "Change"
 msgstr "Modifier"
 
-#: templates/admin/_productEdit.php:23
+#: text_variables.php:146
 msgid "Close"
 msgstr "Fermer"
 
-#: templates/admin/_productEdit.php:32
-msgid "Product Details"
+#: text_variables.php:147
+#, fuzzy
+msgid "Project Details"
 msgstr "Details du produit"
 
-#: templates/admin/_productEdit.php:36
-msgid "Product Price"
+#: text_variables.php:148
+#, fuzzy
+msgid "Project Price"
 msgstr "Prix du produit"
 
-#: templates/admin/_productEdit.php:40
+#: text_variables.php:149
 msgid "Goal"
 msgstr "But"
 
-#: templates/admin/_productList.php:5
-msgid "Add Product"
-msgstr "Ajouter un produit"
+#: text_variables.php:151
+msgid "#"
+msgstr "#"
 
-#: templates/admin/_productList.php:11
-#: templates/admin/_questionView.php:30
-msgid "Sr. no"
-msgstr "Sr. no"
-
-#: templates/admin/_productList.php:12
+#: text_variables.php:152
 msgid "Image"
 msgstr "Image"
 
-#: templates/admin/_productSettings.php:9
+#: text_variables.php:153
 msgid "Mailchimp API Key"
 msgstr "Mailchimp API Key"
 
-#: templates/admin/_productSettings.php:13
+#: text_variables.php:154
 msgid "Mailchimp List ID"
 msgstr "Mailchimp List ID"
 
-#: templates/admin/_productSettings.php:17
+#: text_variables.php:155
 msgid "Aweber Email"
 msgstr "Courriel Aweber"
 
-#: templates/admin/_productSettings.php:21
+#: text_variables.php:156
 msgid "Active Settings"
 msgstr "ParamÃ¨tres ActivÃ©s"
 
-#: templates/admin/_productSettings.php:54
-#: templates/admin/_productSettings.php:146
+#: text_variables.php:157
 msgid "Field name"
 msgstr "Nom du champ"
 
-#: templates/admin/_productSettings.php:55
-#: templates/admin/_productSettings.php:147
+#: text_variables.php:158
 msgid "Enabled"
 msgstr "ActivÃ©"
 
-#: templates/admin/_productSettings.php:56
-#: templates/admin/_productSettings.php:148
+#: text_variables.php:159
 msgid "Mandatory"
 msgstr "Obligatoire"
 
-#: templates/admin/_productSettings.php:59
-#: templates/admin/_productSettings.php:151
+#: text_variables.php:160
 msgid "First name"
 msgstr "PrÃ©nom"
 
-#: templates/admin/_productSettings.php:64
-#: templates/admin/_productSettings.php:156
+#: text_variables.php:161
 msgid "Last name"
 msgstr "nom"
 
-#: templates/admin/_productSettings.php:119
-msgid "Default Product Settings"
+#: text_variables.php:162
+#, fuzzy
+msgid "Default Project Settings"
 msgstr "ParamÃ¨tres par default"
 
-#: templates/admin/_productSettings.php:197
-msgid "Custom Pre-Product Settings"
+#: text_variables.php:163
+#, fuzzy
+msgid "Custom Project Settings"
 msgstr "ParamÃ¨tres personalisÃ©s"
 
-#: templates/admin/_productSettings.php:200
-msgid "Product ID"
-msgstr "Product ID"
+#: text_variables.php:164
+#, fuzzy
+msgid "Project ID"
+msgstr "Projet"
 
-#: templates/admin/_questionView.php:4
+#: text_variables.php:165
 msgid "Question Details"
 msgstr "DÃ©tails de la question"
 
-#: templates/admin/_questionView.php:31
+#: text_variables.php:166
 msgid "Question Subject"
 msgstr "Sujet"
 
-#: templates/admin/_questionView.php:32
+#: text_variables.php:167
 msgid "Created Date"
 msgstr "Date de crÃ©ation"
 
-#: templates/admin/_settingsIgnDeck.php:2
+#: text_variables.php:168
 msgid "General Settings"
 msgstr "ParamÃ¨tres GÃ©nÃ©raux"
 
-#: templates/admin/_settingsIgnDeck.php:7
+#: text_variables.php:169
 msgid "Ignition Deck Logo"
 msgstr "Ignition Deck Logo"
 
-#: templates/admin/_settingsIgnDeck.php:8
-msgid "This allows you to deactivate the 'Powered By IgnitionDeck' logo that would appear at the bottom of the Widget."
-msgstr "DÃ©sactiver le logo IgnitionDeck au bas de la page"
-
-#: templates/admin/_settingsIgnDeck.php:11
-msgid "Facebook on Product Page"
+#: text_variables.php:170
+#, fuzzy
+msgid "Facebook on Project Page"
 msgstr "Facebook sur la page de produit"
 
-#: templates/admin/_settingsIgnDeck.php:12
-msgid "Want people to share via Facebook from your Product Page?  Use this."
+#: text_variables.php:171
+#, fuzzy
+msgid "Want people to share via Facebook from your project page?  Use this."
 msgstr "permettre le partage via Facebook"
 
-#: templates/admin/_settingsIgnDeck.php:15
-msgid "Twitter on Product Page"
+#: text_variables.php:172
+#, fuzzy
+msgid "Want people to share via Twitter from your project page?  Use this."
+msgstr "permettre le partage via Facebook"
+
+#: text_variables.php:173
+#, fuzzy
+msgid "Twitter on Project Page"
 msgstr "Twitter sur la page de produit"
 
-#: templates/admin/_settingsIgnDeck.php:19
-msgid "Ask A Question Button"
+#: text_variables.php:176
+#, fuzzy
+msgid "LinkedIn on Project Page"
+msgstr "Twitter sur la page de produit"
+
+#: text_variables.php:177
+#, fuzzy
+msgid "Want people to share via LinkedIn from your project page?  Use this."
+msgstr "permettre le partage via Facebook"
+
+#: text_variables.php:178
+#, fuzzy
+msgid "Want people to share via Google+ from your project page?  Use this."
+msgstr "permettre le partage via Facebook"
+
+#: text_variables.php:179
+#, fuzzy
+msgid "Google+ on Project Page"
+msgstr "Facebook sur la page de produit"
+
+#: text_variables.php:180
+#, fuzzy
+msgid "Want people to share via Pinterest from your project page?  Use this."
+msgstr "permettre le partage via Facebook"
+
+#: text_variables.php:181
+#, fuzzy
+msgid "Pinterest on Project Page"
+msgstr "Twitter sur la page de produit"
+
+#: text_variables.php:183
+#, fuzzy
+msgid "Ask a Question Button"
 msgstr "Boutton de question"
 
-#: templates/admin/_settingsIgnDeck.php:21
-msgid "Enable or disable Ask A Question button on the Widget"
+#: text_variables.php:184
+#, fuzzy
+msgid "Enable or disable ask a question button on the widget"
 msgstr "Activer/desactiver le bouton de question sur le widget"
 
-#: templates/admin/_settingsIgnDeck.php:24
-msgid "Ask A Question Email"
+#: text_variables.php:185
+#, fuzzy
+msgid "Ask a Question Email"
 msgstr "Courriel"
 
-#: templates/admin/_settingsIgnDeck.php:26
+#: text_variables.php:186
 msgid "Email address to which the question should be sent"
 msgstr "Courriel ou envoyer les questions"
 
-#: templates/admin/_settingsIgnDeck.php:29
+#: text_variables.php:187
 msgid "Widget Theme"
 msgstr "Theme du widget"
 
-#: templates/admin/_settingsIgnDeck.php:31
+#: text_variables.php:188
 msgid "IgnitionDeck"
 msgstr "IgnitionDeck"
 
-#: templates/admin/_settingsIgnDeck.php:32
+#: text_variables.php:189
 msgid "Clean"
 msgstr "Effacer"
 
-#: templates/admin/_settingsIgnDeck.php:33
+#: text_variables.php:190
 msgid "Skyscraper"
 msgstr "Skyscraper"
 
-#: templates/admin/_settingsIgnDeck.php:34
+#: text_variables.php:191
 msgid "Corporate"
 msgstr "Compagnie"
 
-#: templates/admin/_settingsIgnDeck.php:35
+#: text_variables.php:192
 msgid "Supporter Exclusive"
 msgstr "Supporter exclusif"
 
-#: templates/admin/_twitterApplication.php:4
-msgid "Consumer key"
-msgstr "Consumer key"
+#: text_variables.php:193
+msgid "Consumer Key"
+msgstr "Consumer Key"
 
-#: templates/admin/_twitterApplication.php:8
-msgid "Consumer secret"
-msgstr "Consumer secret"
-
-#: templates/admin/_twitterApplication.php:13
+#: text_variables.php:194
 msgid "Callback URL"
 msgstr "Callback URL"
 
+#: text_variables.php:195
+#, fuzzy
+msgid "Projects successfully updated."
+msgstr "Produits sauveguardÃ©s"
+
+#: text_variables.php:196
+#, fuzzy
+msgid "Projects successfully deleted."
+msgstr "Produits supprimÃ©s"
+
+#: text_variables.php:197
+msgid "Updates"
+msgstr "Mise a jour"
+
+#: text_variables.php:199
+#, fuzzy
+msgid "Add Project"
+msgstr "Ajouter un nouveau projet"
+
+#: text_variables.php:200
+#, fuzzy
+msgid "This allows you to activate and share via the 'Powered By IgnitionDeck' logo that would appear at the bottom of the widget."
+msgstr "DÃ©sactiver le logo IgnitionDeck au bas de la page"
+
+#: text_variables.php:201
+msgid "Name of the Project (Required)"
+msgstr "Name of the Project (Required)"
+
+#: text_variables.php:202
+#, fuzzy
+msgid "Price for Level 1"
+msgstr "Niveau du produit"
+
+#: text_variables.php:203
+msgid "Price of the first reward level for your project (required)."
+msgstr "Price of the first reward level for your project (required)."
+
+#: text_variables.php:204
+msgid "Description for level 1."
+msgstr "Description for level 1."
+
+#: text_variables.php:205
+msgid "Amount you are looking to raise (required)."
+msgstr "Amount you are looking to raise (required)."
+
+#: text_variables.php:206
+msgid "Fundraising End Date"
+msgstr "Fundraising End Date"
+
+#: text_variables.php:207
+msgid "Ending date for fundraising (recommended)."
+msgstr "Ending date for fundraising (recommended)."
+
+#: text_variables.php:208
+msgid "Proposed Ship Date"
+msgstr "Proposed Ship Date"
+
+#: text_variables.php:209
+msgid "When do you hope to ship? Leave blank if unknown."
+msgstr "When do you hope to ship? Leave blank if unknown."
+
+#: text_variables.php:210
+#, fuzzy
+msgid "Video"
+msgstr "Voir"
+
+#: text_variables.php:211
+msgid "Embed Video Code (YouTube, Vimeo, Viddler)."
+msgstr "Embed Video Code (YouTube, Vimeo, Viddler)."
+
+#: text_variables.php:212
+#, fuzzy
+msgid "Main Project Image"
+msgstr "Image du produit"
+
+#: text_variables.php:213
+msgid "Image 1 - Shortcode: [product_image product=\"1\" image=\"1\"]"
+msgstr "Image 1 - Shortcode: [product_image product=\"1\" image=\"1\"]"
+
+#: text_variables.php:214
+#, fuzzy
+msgid "Image 2"
+msgstr "Image"
+
+#: text_variables.php:215
+msgid "Image 2 - Shortcode: [product_image product=\"1\" image=\"2\"]"
+msgstr "Image 2 - Shortcode: [product_image product=\"1\" image=\"2\"]"
+
+#: text_variables.php:216
+#, fuzzy
+msgid "Image 3"
+msgstr "Image"
+
+#: text_variables.php:217
+msgid "Image 3 - Shortcode: [product_image product=\"1\" image=\"3\"]"
+msgstr "Image 3 - Shortcode: [product_image product=\"1\" image=\"3\"]"
+
+#: text_variables.php:218
+#, fuzzy
+msgid "Image 4"
+msgstr "Image"
+
+#: text_variables.php:219
+msgid "Image 4 - Shortcode: [product_image product=\"1\" image=\"4\"]"
+msgstr "Image 4 - Shortcode: [product_image product=\"1\" image=\"4\"]"
+
+#: text_variables.php:220
+msgid "FAQs"
+msgstr "FAQs"
+
+#: text_variables.php:221
+msgid "For those often asked questions that you would like to give a direct answer to. You can edit and add as much as needed."
+msgstr "For those often asked questions that you would like to give a direct answer to. You can edit and add as much as needed."
+
+#: text_variables.php:222
+#, fuzzy
+msgid "Project Updates"
+msgstr "Projets"
+
+#: text_variables.php:223
+msgid "Add product updates here."
+msgstr "Add product updates here."
+
+#: text_variables.php:224
+msgid "Terms and Conditions"
+msgstr "Terms and Conditions"
+
+#: text_variables.php:225
+msgid "This is not displayed on the project page. This is displayed during checkout and will show below the checkout box.  Use this space to specify your terms, answer questions regarding shipping, and cover all your bases."
+msgstr "This is not displayed on the project page. This is displayed during checkout and will show below the checkout box.  Use this space to specify your terms, answer questions regarding shipping, and cover all your bases."
+
+#: text_variables.php:226
+msgid "We recommend you fill this in with clear instructions about how your project is going to go after you've reached your goal.  It would also be very smart to mention what you'll do if you don't reach your goal."
+msgstr "We recommend you fill this in with clear instructions about how your project is going to go after you've reached your goal.  It would also be very smart to mention what you'll do if you don't reach your goal."
+
+#: text_variables.php:227
+msgid "Additional Price Levels"
+msgstr "Additional Price Levels"
+
+#: text_variables.php:228
+msgid "Add additional price levels here."
+msgstr "Add additional price levels here."
+
+#: text_variables.php:229
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: text_variables.php:230
+#, fuzzy
+msgid "Short Description"
+msgstr "Description du niveau"
+
+#: text_variables.php:231
+msgid "This is the project short description, used for the regular, mini, and embed widgets."
+msgstr "This is the project short description, used for the regular, mini, and embed widgets."
+
+#: text_variables.php:232
+#, fuzzy
+msgid "IgnitionDeck Mini Widget"
+msgstr "Widget IgnitionDeck"
+
+#: text_variables.php:233
+msgid "Sandbox Mode"
+msgstr "Sandbox Mode"
+
+#: text_variables.php:234
+#, fuzzy
+msgid "Long Description"
+msgstr "Description du niveau"
+
+#: text_variables.php:235
+msgid "This is the project long description, used for displaying content below the video field."
+msgstr "This is the project long description, used for displaying content below the video field."
+
+#: text_variables.php:236
+msgid "API Username"
+msgstr "API Username"
+
+#: text_variables.php:237
+msgid "API Password"
+msgstr "API Password"
+
+#: text_variables.php:238
+msgid "API Signature"
+msgstr "API Signature"
+
+#: text_variables.php:239
+msgid "Pre Approval Key"
+msgstr "Pre Approval Key"
+
+#: text_variables.php:240
+msgid "Please write pre approval key to let the user purchase directly without going to PayPal website<br/>Use this only for secure connections"
+msgstr "Please write pre approval key to let the user purchase directly without going to PayPal website<br/>Use this only for secure connections"
+
+#: text_variables.php:241
+#, fuzzy
+msgid "Payment Error"
+msgstr "Formulaire de paiment"
+
+#: text_variables.php:242
+msgid "Preapproval Key"
+msgstr "Preapproval Key"
+
+#: text_variables.php:243
+msgid "Generate Preapproval Key"
+msgstr "Generate Preapproval Key"
+
+#: text_variables.php:244
+#, fuzzy
+msgid "Paypal_Email"
+msgstr "Courriel paypal"
+
+#: text_variables.php:245
+#, fuzzy
+msgid "Starting Date"
+msgstr "SauveguardÃ©!"
+
+#: text_variables.php:246
+#, fuzzy
+msgid "Ending Date"
+msgstr "Date de fin"
+
+#: text_variables.php:247
+#, fuzzy
+msgid "Max Number of Payments"
+msgstr "Faire un paiment"
+
+#: text_variables.php:248
+msgid "Max Total Amount"
+msgstr "Max Total Amount"
+
+#: text_variables.php:249
+msgid "Show Mini Widget on"
+msgstr "Show Mini Widget on"
+
+#: text_variables.php:250
+#, fuzzy
+msgid "Project Page Only"
+msgstr "Image du produit"
+
+#: text_variables.php:251
+msgid "Small Widget on all Pages"
+msgstr "Small Widget on all Pages"
+
+#: text_variables.php:252
+msgid "Pledgers"
+msgstr "Pledgers"
+
+#: text_variables.php:253
+msgid "Pledged of"
+msgstr "Pledged of"
+
+#: text_variables.php:254
+msgid "Days to Go"
+msgstr "Days to Go"
+
+#: text_variables.php:255
+msgid "Only"
+msgstr "Only"
+
+#: text_variables.php:256
+msgid "Reload Captcha"
+msgstr "Reload Captcha"
+
+#: text_variables.php:257
+msgid "Type Captcha"
+msgstr "Type Captcha"
+
+#: text_variables.php:258
+#, fuzzy
+msgid "Date"
+msgstr "Date de fin"
+
+#: text_variables.php:259
+msgid "Pledged"
+msgstr "Pledged"
+
+#: text_variables.php:260
+#, fuzzy
+msgid "Price for Level "
+msgstr "Niveau du produit"
+
+#: text_variables.php:261
+msgid "Total Contribution"
+msgstr "Total Contribution"
+
+#: text_variables.php:262
+msgid "Delete Last Level"
+msgstr "Delete Last Level"
+
+#: text_variables.php:263
+msgid "Description for Level "
+msgstr "Description for Level "
+
+#: text_variables.php:264
+#, fuzzy
+msgid "Add Level"
+msgstr "Niveau"
+
+#: text_variables.php:265
+#, fuzzy
+msgid "Project Reward Levels"
+msgstr "Niveau du produit"
+
+#: text_variables.php:266
+#, fuzzy
+msgid "Additional Project Information"
+msgstr "Informations de paiement"
+
+#: text_variables.php:267
+msgid "Awesome! You are about to become a supporter of"
+msgstr "Awesome! You are about to become a supporter of"
+
+#: text_variables.php:268
+msgid "Checkout"
+msgstr "Checkout"
+
+#: text_variables.php:269
+msgid "Required"
+msgstr "Required"
+
+#: text_variables.php:270
+msgid "Publishable Key"
+msgstr "Publishable Key"
+
+#: text_variables.php:271
+#, fuzzy
+msgid "Payment Method"
+msgstr "Formulaire de paiment"
+
+#: text_variables.php:272
+#, fuzzy
+msgid "Payment Method Selection"
+msgstr "ParamÃ¨tres de paiment"
+
+msgid "Disclaimer"
+msgstr "Disclaimer"
+
+msgid "This is not displayed on the project page. For testing only."
+msgstr "This is not displayed on the project page. For testing only."
+
+msgid "This will have a default disclaimer pre-filled that a user will have the ability to edit to their needs."
+msgstr "This will have a default disclaimer pre-filled that a user will have the ability to edit to their needs."
+
+#, fuzzy
+#~ msgid "First Price Level"
+#~ msgstr "Niveau du produit"
+
+#, fuzzy
+#~ msgid "First price level description."
+#~ msgstr "Description du niveau"
+
+#, fuzzy
+#~ msgid "Image 1"
+#~ msgstr "Image"
+
+#, fuzzy
+#~ msgid "Level 1 Description"
+#~ msgstr "Description du niveau"
+
+#~ msgid "Sr. no"
+#~ msgstr "Sr. no"
+
+#~ msgid "Mail chimp Settings"
+#~ msgstr "ParamÃ¨tres MailChimp"
+
+#~ msgid "Action"
+#~ msgstr "Action"
+
+#~ msgid "Product"
+#~ msgstr "Produit"
+
+#~ msgid "Products"
+#~ msgstr "Produits"
+
+#~ msgid "Product ID"
+#~ msgstr "Product ID"
+
+#~ msgid "Edit Product"
+#~ msgstr "Editer un produit"
+
+#~ msgid "Add Product"
+#~ msgstr "Ajouter un produit"
+
+#~ msgid "Facebook settings have been successfully saved."
+#~ msgstr "les paramÃ¨tres Facebook ont Ã©tÃ© sauveguardÃ©"
+
+#~ msgid "Consumer key"
+#~ msgstr "Consumer key"
+
+#~ msgid "Consumer secret"
+#~ msgstr "Consumer secret"
+
+#~ msgid "Add New Product"
+#~ msgstr "Ajouter un nouveau produit"
+
+#~ msgid "New Product"
+#~ msgstr "Nouveau Produit"
+
+#~ msgid "View Product"
+#~ msgstr "Afficher un produit"
+
+#~ msgid "Search Product"
+#~ msgstr "Rechercher un produit"

@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-01-21 17:53-0500\n"
+"POT-Creation-Date: 2012-08-10 14:40-0500\n"
 "PO-Revision-Date: \n"
-"Last-Translator: \n"
+"Last-Translator: Nathan Hangen <nathan@virtuousgiant.com>\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
 #: text_variables.php:2
-#: text_variables.php:146
+#: text_variables.php:150
 msgid "Projects"
 msgstr "Proyectos"
 
@@ -25,12 +25,12 @@ msgid "Add New Project"
 msgstr "Agrega un nuevo proyecto"
 
 #: text_variables.php:5
-#: text_variables.php:122
+#: text_variables.php:126
 msgid "Edit"
 msgstr "Modificar"
 
 #: text_variables.php:6
-#: text_variables.php:185
+#: text_variables.php:198
 msgid "Edit Project"
 msgstr "Modificar Proyecto"
 
@@ -213,686 +213,950 @@ msgid "Payment Form"
 msgstr "Formulario de pago"
 
 #: text_variables.php:52
+#, fuzzy
+msgid "Payment Form Settings"
+msgstr "Configuraciones de pago"
+
+#: text_variables.php:53
 msgid "Widget to show projects"
 msgstr "Widget para mostrar los proyectos"
 
-#: text_variables.php:53
+#: text_variables.php:54
 #, fuzzy
 msgid "IgnitionDeck Project Widget"
 msgstr "Widget del proyecto IgnitionDeck"
 
-#: text_variables.php:54
+#: text_variables.php:55
 #, fuzzy
 msgid "About the Project"
 msgstr "Acerca del proyecto"
 
-#: text_variables.php:55
+#: text_variables.php:56
 #, fuzzy
 msgid "The Project FAQ's"
 msgstr "FAQ sobre el proyecto"
 
-#: text_variables.php:56
+#: text_variables.php:57
 msgid "Buyers"
 msgstr "Compradores"
 
-#: text_variables.php:57
+#: text_variables.php:58
 #, fuzzy
 msgid "Redirecting to Paypal..."
 msgstr "Redirigiendo el sitio a Paypal..."
 
-#: text_variables.php:58
+#: text_variables.php:59
 #, fuzzy
 msgid "Twitter.connection.failed"
 msgstr "fallo.en.conexiÃ³n.con.Twitter"
 
-#: text_variables.php:59
+#: text_variables.php:60
 msgid "Error occured let's try again"
 msgstr "Ha ocurrido un error. Por favor intÃ©ntelo nuevamente"
 
-#: text_variables.php:60
+#: text_variables.php:61
 #, fuzzy
 msgid "Twitter.share.success"
 msgstr "publicaciÃ³n.en.twitter.exitosa"
 
-#: text_variables.php:61
+#: text_variables.php:62
 #, fuzzy
 msgid "Twitter.share.failed"
 msgstr "fallo.en.publicaciÃ³n.en.twitter"
 
-#: text_variables.php:62
+#: text_variables.php:63
 #, fuzzy
 msgid "Facebook.share.success"
 msgstr "publicaciÃ³n.en.facebook.exitosa"
 
-#: text_variables.php:63
+#: text_variables.php:64
 #, fuzzy
 msgid "Facebook.share.failed"
 msgstr "fallo.en.publicaciÃ³n.en.facebook"
 
-#: text_variables.php:64
+#: text_variables.php:65
 #, fuzzy, php-format
 msgid "IgnitionDeck: %s sent a question"
 msgstr "IgnitionDeck: %s ha enviado una pregunta"
 
-#: text_variables.php:65
+#: text_variables.php:66
 msgid "Name"
 msgstr "Nombre"
 
-#: text_variables.php:66
+#: text_variables.php:67
 msgid "Email"
 msgstr "Correo electrÃ³nico"
 
-#: text_variables.php:67
+#: text_variables.php:68
 msgid "Subject"
 msgstr "Asunto"
 
-#: text_variables.php:68
+#: text_variables.php:69
 msgid "Message"
 msgstr "Mensaje"
 
-#: text_variables.php:69
+#: text_variables.php:70
 msgid "Level"
 msgstr "Nivel"
 
-#: text_variables.php:70
+#: text_variables.php:71
 msgid "Price"
 msgstr "Precio"
 
-#: text_variables.php:71
+#: text_variables.php:72
 msgid "Update Options"
 msgstr "Opciones de actualizaciÃ³n"
 
-#: text_variables.php:72
+#: text_variables.php:73
 msgid "Contact Form"
 msgstr "Formulario de contacto"
 
-#: text_variables.php:73
+#: text_variables.php:74
 msgid "Send email"
 msgstr "Enviar correo electrÃ³nico"
 
-#: text_variables.php:74
+#: text_variables.php:75
 msgid "Clear"
 msgstr "Vaciar"
 
-#: text_variables.php:75
+#: text_variables.php:76
 msgid "This will be funded on"
 msgstr "Este proyecto serÃ¡ financiado el"
 
-#: text_variables.php:76
+#: text_variables.php:77
 msgid "Learn More"
 msgstr "MÃ¡s informaciÃ³n"
 
-#: text_variables.php:77
+#: text_variables.php:78
 msgid "Support This Project"
 msgstr "Apoye Este Proyecto"
 
-#: text_variables.php:78
+#: text_variables.php:79
 msgid "Our Earliest Buyers"
 msgstr "Nuestros Primeros Compradores"
 
-#: text_variables.php:79
+#: text_variables.php:80
 msgid "Ask A Question"
 msgstr "Formule una pregunta"
 
-#: text_variables.php:80
+#: text_variables.php:81
 msgid "Crowdfunding by IgnitionDeck"
 msgstr "Crowdfunding by IgnitionDeck"
 
-#: text_variables.php:81
+#: text_variables.php:82
 msgid "Powered By IgnitionDeck"
 msgstr "Powered By IgnitionDeck"
 
-#: text_variables.php:82
+#: text_variables.php:83
 msgid "Payment Information"
 msgstr "InformaciÃ³n sobre pagos"
 
-#: text_variables.php:83
+#: text_variables.php:84
 msgid "First Name"
 msgstr "Nombre"
 
-#: text_variables.php:84
+#: text_variables.php:85
 msgid "Last Name"
 msgstr "Apellido"
 
-#: text_variables.php:85
+#: text_variables.php:86
 msgid "Address"
 msgstr "DirecciÃ³n"
 
-#: text_variables.php:86
+#: text_variables.php:87
 msgid "Country"
 msgstr "PaÃ­s"
 
-#: text_variables.php:87
+#: text_variables.php:88
 msgid "State"
 msgstr "Estado/Provincia"
 
-#: text_variables.php:88
+#: text_variables.php:89
 msgid "City"
 msgstr "Ciudad"
 
-#: text_variables.php:89
+#: text_variables.php:90
 msgid "Zip"
 msgstr "CÃ³digo postal"
 
-#: text_variables.php:90
+#: text_variables.php:91
 msgid "Make Payment"
 msgstr "Hacer el pago"
 
-#: text_variables.php:91
+#: text_variables.php:92
 msgid "Funding"
 msgstr "Financiamiento"
 
-#: text_variables.php:92
+#: text_variables.php:93
 msgid "Total Sale"
 msgstr "Total de ventas"
 
-#: text_variables.php:93
+#: text_variables.php:94
 msgid "Facebook"
 msgstr "Facebook"
 
-#: text_variables.php:94
+#: text_variables.php:95
+msgid "LinkedIn"
+msgstr "LinkedIn"
+
+#: text_variables.php:96
+msgid "Google+"
+msgstr "Google+"
+
+#: text_variables.php:97
+msgid "Pinterest"
+msgstr "Pinterest"
+
+#: text_variables.php:98
 msgid "Yes"
 msgstr "Si"
 
-#: text_variables.php:95
+#: text_variables.php:99
 msgid "No"
 msgstr "No"
 
-#: text_variables.php:96
+#: text_variables.php:100
 msgid "Twitter"
 msgstr "Twitter"
 
-#: text_variables.php:97
+#: text_variables.php:101
 msgid "Please share your experience with your friends!"
 msgstr "Por favor, comparta su experiencia con sus amigos!"
 
-#: text_variables.php:98
+#: text_variables.php:102
 msgid "API key"
 msgstr "Clave API"
 
-#: text_variables.php:99
+#: text_variables.php:103
 msgid "Subscription Email"
 msgstr "Correo electrÃ³nico para la suscripciÃ³"
 
-#: text_variables.php:100
+#: text_variables.php:104
 msgid "Aweber Settings"
 msgstr "ConfiguraciÃ³n de Aweber"
 
-#: text_variables.php:101
+#: text_variables.php:105
 msgid "Make Active"
 msgstr "Activar"
 
-#: text_variables.php:102
+#: text_variables.php:106
 msgid "Consumer Secret"
 msgstr "Secreto del usuario"
 
-#: text_variables.php:103
+#: text_variables.php:107
 msgid "List Email Id"
 msgstr "Identificador de lista de correo electrÃ³nico"
 
-#: text_variables.php:104
-#: text_variables.php:112
+#: text_variables.php:108
+#: text_variables.php:116
 msgid "Mailchimp Settings"
 msgstr "ConfiguraciÃ³n de Mailchimp"
 
-#: text_variables.php:105
+#: text_variables.php:109
 msgid "List id"
 msgstr "Identificador de Lista"
 
-#: text_variables.php:106
+#: text_variables.php:110
 msgid "Embed Widget Code"
 msgstr "Embeber cÃ³digo de Widget"
 
-#: text_variables.php:107
+#: text_variables.php:111
 #, fuzzy
 msgid "Select Project to Create Embed Code for"
 msgstr "Seleccione el proyeto para crear el cÃ³digo para embeber"
 
-#: text_variables.php:108
+#: text_variables.php:112
 msgid "Embed Code"
 msgstr "CÃ³digo para embeber"
 
-#: text_variables.php:109
+#: text_variables.php:113
 msgid "Application Id"
 msgstr "Identificador de la aplicaciÃ³n"
 
-#: text_variables.php:110
+#: text_variables.php:114
 msgid "Application secret key"
 msgstr "Clave secreta de la aplicaciÃ³n"
 
-#: text_variables.php:111
+#: text_variables.php:115
 msgid "Text to share"
 msgstr "Texto para compartir"
 
-#: text_variables.php:113
+#: text_variables.php:117
 msgid "Email Address"
 msgstr "DirecciÃ³n de correo electrÃ³nico"
 
-#: text_variables.php:114
+#: text_variables.php:118
 msgid "Zip Code"
 msgstr "CÃ³digo postal"
 
-#: text_variables.php:115
+#: text_variables.php:119
 msgid "Status"
 msgstr "Estado"
 
-#: text_variables.php:116
+#: text_variables.php:120
 msgid "Pending"
 msgstr "Pendiente"
 
-#: text_variables.php:117
+#: text_variables.php:121
 msgid "Complete"
 msgstr "Completo"
 
-#: text_variables.php:118
+#: text_variables.php:122
 #, fuzzy
 msgid "Project Name"
 msgstr "Nombre del proyecto"
 
-#: text_variables.php:119
+#: text_variables.php:123
 msgid "Project Level"
 msgstr "Nivel del proyecto"
 
-#: text_variables.php:120
+#: text_variables.php:124
 #, fuzzy
 msgid "Select Project"
 msgstr "Seleccionar el proyecto"
 
-#: text_variables.php:121
+#: text_variables.php:125
 msgid "Add Order"
 msgstr "AÃ±adir solicitud"
 
-#: text_variables.php:123
+#: text_variables.php:127
 msgid "Orders"
 msgstr "Solicitudes"
 
-#: text_variables.php:124
+#: text_variables.php:128
 msgid "Completed"
 msgstr "Completado"
 
-#: text_variables.php:125
+#: text_variables.php:129
 msgid "View"
 msgstr "Ver"
 
-#: text_variables.php:126
+#: text_variables.php:130
 #, fuzzy
 msgid "Are you sure you want to delete this order by"
 msgstr "EstÃ¡ seguro que desea eliminar esta solicitud por"
 
-#: text_variables.php:127
+#: text_variables.php:131
 msgid "Delete"
 msgstr "Eliminar"
 
-#: text_variables.php:128
+#: text_variables.php:132
 msgid "Last Email"
 msgstr "Ãltimo correo electrÃ³nico"
 
-#: text_variables.php:129
+#: text_variables.php:133
 msgid "Paypal Refund"
 msgstr "Reembolso de Paypal"
 
-#: text_variables.php:130
+#: text_variables.php:134
 msgid "Pay Key"
 msgstr "Clave de pago"
 
-#: text_variables.php:131
+#: text_variables.php:135
 msgid "Transaction ID"
 msgstr "Identificador de transacciÃ³n"
 
-#: text_variables.php:132
+#: text_variables.php:136
 msgid "Currency Code"
 msgstr "CÃ³digo de moneda"
 
-#: text_variables.php:133
+#: text_variables.php:137
 msgid "Refund"
 msgstr "Reembolso"
 
-#: text_variables.php:134
+#: text_variables.php:138
 msgid "Level Price"
 msgstr "Nivel de precio"
 
-#: text_variables.php:135
+#: text_variables.php:139
 msgid "Level Description"
 msgstr "Nivel de descripciÃ³n"
 
-#: text_variables.php:136
+#: text_variables.php:140
 msgid "PayPal Identity Token"
 msgstr "Ficha de identidad de PayPal"
 
-#: text_variables.php:137
+#: text_variables.php:141
 msgid "PayPal Email"
 msgstr "Correo electrÃ³nico de PayPal"
 
-#: text_variables.php:138
+#: text_variables.php:142
 msgid "PayPal Override"
 msgstr "Anular PayPal"
 
-#: text_variables.php:139
+#: text_variables.php:143
 msgid "Cancel"
 msgstr "Cancelar"
 
-#: text_variables.php:140
+#: text_variables.php:144
 #, fuzzy
 msgid "Project Image"
 msgstr "Imagen del proyecto"
 
-#: text_variables.php:141
+#: text_variables.php:145
 msgid "Change"
 msgstr "Cambiar"
 
-#: text_variables.php:142
+#: text_variables.php:146
 msgid "Close"
 msgstr "Cerrar"
 
-#: text_variables.php:143
+#: text_variables.php:147
 #, fuzzy
 msgid "Project Details"
 msgstr "Detalles del proyecto"
 
-#: text_variables.php:144
+#: text_variables.php:148
 #, fuzzy
 msgid "Project Price"
 msgstr "Valor del proyecto"
 
-#: text_variables.php:145
+#: text_variables.php:149
 msgid "Goal"
 msgstr "Meta"
 
-#: text_variables.php:147
+#: text_variables.php:151
 msgid "#"
 msgstr "#"
 
-#: text_variables.php:148
+#: text_variables.php:152
 msgid "Image"
 msgstr "Imagen"
 
-#: text_variables.php:149
+#: text_variables.php:153
 msgid "Mailchimp API Key"
 msgstr "Clave API de Mailchimp"
 
-#: text_variables.php:150
+#: text_variables.php:154
 msgid "Mailchimp List ID"
 msgstr "Identificador de lista de Mailchimp"
 
-#: text_variables.php:151
+#: text_variables.php:155
 msgid "Aweber Email"
 msgstr "Correo electrÃ³nico de Aweber"
 
-#: text_variables.php:152
+#: text_variables.php:156
 msgid "Active Settings"
 msgstr "Configuraciones activas"
 
-#: text_variables.php:153
+#: text_variables.php:157
 msgid "Field name"
 msgstr "Nombre del campo"
 
-#: text_variables.php:154
+#: text_variables.php:158
 msgid "Enabled"
 msgstr "Activado"
 
-#: text_variables.php:155
+#: text_variables.php:159
 msgid "Mandatory"
 msgstr "Obligatorio"
 
-#: text_variables.php:156
+#: text_variables.php:160
 msgid "First name"
 msgstr "Nombre"
 
-#: text_variables.php:157
+#: text_variables.php:161
 msgid "Last name"
 msgstr "Apellido"
 
-#: text_variables.php:158
+#: text_variables.php:162
 #, fuzzy
 msgid "Default Project Settings"
 msgstr "Configuraciones por defecto del proyecto"
 
-#: text_variables.php:159
+#: text_variables.php:163
 msgid "Custom Project Settings"
 msgstr "Configuraciones personalizadas del proyecto"
 
-#: text_variables.php:160
+#: text_variables.php:164
 #, fuzzy
 msgid "Project ID"
 msgstr "Identificador del Proyecto"
 
-#: text_variables.php:161
+#: text_variables.php:165
 msgid "Question Details"
 msgstr "Detalles de la pregunta"
 
-#: text_variables.php:162
+#: text_variables.php:166
 msgid "Question Subject"
 msgstr "Asunto de la pregunta"
 
-#: text_variables.php:163
+#: text_variables.php:167
 msgid "Created Date"
 msgstr "Fecha de la creaciÃ³n"
 
-#: text_variables.php:164
+#: text_variables.php:168
 msgid "General Settings"
 msgstr "Configuraciones generales"
 
-#: text_variables.php:165
+#: text_variables.php:169
 msgid "Ignition Deck Logo"
 msgstr "Logotipo de IgnitionDeck"
 
-#: text_variables.php:166
+#: text_variables.php:170
 #, fuzzy
 msgid "Facebook on Project Page"
 msgstr "Facebook en la pÃ¡gina del proyecto"
 
-#: text_variables.php:167
+#: text_variables.php:171
 #, fuzzy
 msgid "Want people to share via Facebook from your project page?  Use this."
 msgstr "Para permitir que tus amigos compartan tu proyecto a travÃ©s de Facebook, utiliza esto"
 
-#: text_variables.php:168
+#: text_variables.php:172
 #, fuzzy
 msgid "Want people to share via Twitter from your project page?  Use this."
 msgstr "Para permitir que tus seguidores compartan tu proyecto a travÃ©s de Twiter, utiliza esto"
 
-#: text_variables.php:169
+#: text_variables.php:173
 msgid "Twitter on Project Page"
 msgstr "Twitter en la pÃ¡gina del proyecto"
 
-#: text_variables.php:170
+#: text_variables.php:176
+#, fuzzy
+msgid "LinkedIn on Project Page"
+msgstr "Twitter en la pÃ¡gina del proyecto"
+
+#: text_variables.php:177
+#, fuzzy
+msgid "Want people to share via LinkedIn from your project page?  Use this."
+msgstr "Para permitir que tus seguidores compartan tu proyecto a travÃ©s de Twiter, utiliza esto"
+
+#: text_variables.php:178
+#, fuzzy
+msgid "Want people to share via Google+ from your project page?  Use this."
+msgstr "Para permitir que tus amigos compartan tu proyecto a travÃ©s de Facebook, utiliza esto"
+
+#: text_variables.php:179
+#, fuzzy
+msgid "Google+ on Project Page"
+msgstr "Facebook en la pÃ¡gina del proyecto"
+
+#: text_variables.php:180
+#, fuzzy
+msgid "Want people to share via Pinterest from your project page?  Use this."
+msgstr "Para permitir que tus seguidores compartan tu proyecto a travÃ©s de Twiter, utiliza esto"
+
+#: text_variables.php:181
+#, fuzzy
+msgid "Pinterest on Project Page"
+msgstr "Twitter en la pÃ¡gina del proyecto"
+
+#: text_variables.php:183
 #, fuzzy
 msgid "Ask a Question Button"
 msgstr "BotÃ³n Haga una pregunta"
 
-#: text_variables.php:171
+#: text_variables.php:184
 #, fuzzy
 msgid "Enable or disable ask a question button on the widget"
 msgstr "Activar o desactivar el botÃ³n Haga una pregunta en el Widget"
 
-#: text_variables.php:172
+#: text_variables.php:185
 #, fuzzy
 msgid "Ask a Question Email"
 msgstr "Correo electrÃ³nico Haga una pregunta"
 
-#: text_variables.php:173
+#: text_variables.php:186
 msgid "Email address to which the question should be sent"
 msgstr "DirecciÃ³n de correo electrÃ³nico adonde serÃ¡ enviada la pregunta"
 
-#: text_variables.php:174
+#: text_variables.php:187
 msgid "Widget Theme"
 msgstr "Tema del Widget"
 
-#: text_variables.php:175
+#: text_variables.php:188
 msgid "IgnitionDeck"
 msgstr "IgnitionDeck"
 
-#: text_variables.php:176
+#: text_variables.php:189
 msgid "Clean"
 msgstr "Vaciar"
 
-#: text_variables.php:177
+#: text_variables.php:190
 msgid "Skyscraper"
 msgstr "Banner de Publicidad"
 
-#: text_variables.php:178
+#: text_variables.php:191
 msgid "Corporate"
 msgstr "Corporativo"
 
-#: text_variables.php:179
+#: text_variables.php:192
 msgid "Supporter Exclusive"
 msgstr "Patrocinador exclusivo"
 
-#: text_variables.php:180
+#: text_variables.php:193
 msgid "Consumer Key"
 msgstr "Clave del consumidor"
 
-#: text_variables.php:181
+#: text_variables.php:194
 msgid "Callback URL"
 msgstr "URL para devoluciÃ³n de llamada"
 
-#: text_variables.php:182
+#: text_variables.php:195
 #, fuzzy
 msgid "Projects successfully updated."
 msgstr "El proyecto ha sido actualizado exitosamente."
 
-#: text_variables.php:183
+#: text_variables.php:196
 #, fuzzy
 msgid "Projects successfully deleted."
 msgstr "El proyecto se ha eliminado exitosamente."
 
-#: text_variables.php:184
+#: text_variables.php:197
 msgid "Updates"
 msgstr "Actualizaciones"
 
-#: text_variables.php:186
+#: text_variables.php:199
 #, fuzzy
 msgid "Add Project"
 msgstr "Agregar nuevo proyecto"
 
-#: text_variables.php:187
+#: text_variables.php:200
 #, fuzzy
-msgid "This allows you to deactivate the 'Powered By IgnitionDeck' logo that would appear at the bottom of the widget."
+msgid "This allows you to activate and share via the 'Powered By IgnitionDeck' logo that would appear at the bottom of the widget."
 msgstr "Esto le permite desactivar el logotipo 'Powered By IgnitionDeck' que aparecerÃ¡  en la parte inferior del Widget."
 
-#: text_variables.php:188
+#: text_variables.php:201
 msgid "Name of the Project (Required)"
 msgstr "Name of the Project (Required)"
 
-#: text_variables.php:189
+#: text_variables.php:202
 #, fuzzy
-msgid "Level 1 Description"
-msgstr "Nivel de descripciÃ³n"
+msgid "Price for Level 1"
+msgstr "Nivel del proyecto"
 
-#: text_variables.php:190
-msgid "Price of the project (Level 1) (required)."
+#: text_variables.php:203
+#, fuzzy
+msgid "Price of the first reward level for your project (required)."
 msgstr "Price of the project (Level 1) (required)."
 
-#: text_variables.php:191
-#, fuzzy
-msgid "First price level description."
-msgstr "Nivel de descripciÃ³n"
+#: text_variables.php:204
+msgid "Description for level 1."
+msgstr "Description for level 1."
 
-#: text_variables.php:192
+#: text_variables.php:205
 msgid "Amount you are looking to raise (required)."
 msgstr "Amount you are looking to raise (required)."
 
-#: text_variables.php:193
+#: text_variables.php:206
 msgid "Fundraising End Date"
 msgstr "Fundraising End Date"
 
-#: text_variables.php:194
+#: text_variables.php:207
 msgid "Ending date for fundraising (recommended)."
 msgstr "Ending date for fundraising (recommended)."
 
-#: text_variables.php:195
+#: text_variables.php:208
 msgid "Proposed Ship Date"
 msgstr "Proposed Ship Date"
 
-#: text_variables.php:196
+#: text_variables.php:209
 msgid "When do you hope to ship? Leave blank if unknown."
 msgstr "When do you hope to ship? Leave blank if unknown."
 
-#: text_variables.php:197
+#: text_variables.php:210
 #, fuzzy
 msgid "Video"
 msgstr "Ver"
 
-#: text_variables.php:198
+#: text_variables.php:211
 msgid "Embed Video Code (YouTube, Vimeo, Viddler)."
 msgstr "Embed Video Code (YouTube, Vimeo, Viddler)."
 
-#: text_variables.php:199
+#: text_variables.php:212
 #, fuzzy
-msgid "Image 1"
-msgstr "Imagen"
+msgid "Main Project Image"
+msgstr "Imagen del proyecto"
 
-#: text_variables.php:200
+#: text_variables.php:213
 msgid "Image 1 - Shortcode: [product_image product=\"1\" image=\"1\"]"
 msgstr "Image 1 - Shortcode: [product_image product=\"1\" image=\"1\"]"
 
-#: text_variables.php:201
+#: text_variables.php:214
 #, fuzzy
 msgid "Image 2"
 msgstr "Imagen"
 
-#: text_variables.php:202
+#: text_variables.php:215
 msgid "Image 2 - Shortcode: [product_image product=\"1\" image=\"2\"]"
 msgstr "Image 2 - Shortcode: [product_image product=\"1\" image=\"2\"]"
 
-#: text_variables.php:203
+#: text_variables.php:216
 #, fuzzy
 msgid "Image 3"
 msgstr "Imagen"
 
-#: text_variables.php:204
+#: text_variables.php:217
 msgid "Image 3 - Shortcode: [product_image product=\"1\" image=\"3\"]"
 msgstr "Image 3 - Shortcode: [product_image product=\"1\" image=\"3\"]"
 
-#: text_variables.php:205
+#: text_variables.php:218
 #, fuzzy
 msgid "Image 4"
 msgstr "Imagen"
 
-#: text_variables.php:206
+#: text_variables.php:219
 msgid "Image 4 - Shortcode: [product_image product=\"1\" image=\"4\"]"
 msgstr "Image 4 - Shortcode: [product_image product=\"1\" image=\"4\"]"
 
-#: text_variables.php:207
+#: text_variables.php:220
 msgid "FAQs"
 msgstr "FAQs"
 
-#: text_variables.php:208
+#: text_variables.php:221
 msgid "For those often asked questions that you would like to give a direct answer to. You can edit and add as much as needed."
 msgstr "For those often asked questions that you would like to give a direct answer to. You can edit and add as much as needed."
 
-#: text_variables.php:209
+#: text_variables.php:222
 #, fuzzy
 msgid "Project Updates"
 msgstr "Nombre del proyecto"
 
-#: text_variables.php:210
+#: text_variables.php:223
 msgid "Add product updates here."
 msgstr "Add product updates here."
 
-#: text_variables.php:211
-msgid "Disclaimer"
-msgstr "Disclaimer"
+#: text_variables.php:224
+msgid "Terms and Conditions"
+msgstr "Terms and Conditions"
 
-#: text_variables.php:212
-msgid "This is not displayed on the project page. For testing only."
-msgstr "This is not displayed on the project page. For testing only."
+#: text_variables.php:225
+msgid "This is not displayed on the project page. This is displayed during checkout and will show below the checkout box.  Use this space to specify your terms, answer questions regarding shipping, and cover all your bases."
+msgstr "This is not displayed on the project page. This is displayed during checkout and will show below the checkout box.  Use this space to specify your terms, answer questions regarding shipping, and cover all your bases."
 
-#: text_variables.php:213
-msgid "This will have a default disclaimer pre-filled that a user will have the ability to edit to their needs."
-msgstr "This will have a default disclaimer pre-filled that a user will have the ability to edit to their needs."
+#: text_variables.php:226
+msgid "We recommend you fill this in with clear instructions about how your project is going to go after you've reached your goal.  It would also be very smart to mention what you'll do if you don't reach your goal."
+msgstr "We recommend you fill this in with clear instructions about how your project is going to go after you've reached your goal.  It would also be very smart to mention what you'll do if you don't reach your goal."
 
-#: text_variables.php:214
+#: text_variables.php:227
 msgid "Additional Price Levels"
 msgstr "Additional Price Levels"
 
-#: text_variables.php:215
+#: text_variables.php:228
 msgid "Add additional price levels here."
 msgstr "Add additional price levels here."
 
-#: text_variables.php:216
+#: text_variables.php:229
 msgid "Shortcodes"
 msgstr "Shortcodes"
+
+#: text_variables.php:230
+#, fuzzy
+msgid "Short Description"
+msgstr "Nivel de descripciÃ³n"
+
+#: text_variables.php:231
+msgid "This is the project short description, used for the regular, mini, and embed widgets."
+msgstr "This is the project short description, used for the regular, mini, and embed widgets."
+
+#: text_variables.php:232
+#, fuzzy
+msgid "IgnitionDeck Mini Widget"
+msgstr "Widget del proyecto IgnitionDeck"
+
+#: text_variables.php:233
+msgid "Sandbox Mode"
+msgstr "Sandbox Mode"
+
+#: text_variables.php:234
+#, fuzzy
+msgid "Long Description"
+msgstr "Nivel de descripciÃ³n"
+
+#: text_variables.php:235
+msgid "This is the project long description, used for displaying content below the video field."
+msgstr "This is the project long description, used for displaying content below the video field."
+
+#: text_variables.php:236
+msgid "API Username"
+msgstr "API Username"
+
+#: text_variables.php:237
+msgid "API Password"
+msgstr "API Password"
+
+#: text_variables.php:238
+msgid "API Signature"
+msgstr "API Signature"
+
+#: text_variables.php:239
+msgid "Pre Approval Key"
+msgstr "Pre Approval Key"
+
+#: text_variables.php:240
+msgid "Please write pre approval key to let the user purchase directly without going to PayPal website<br/>Use this only for secure connections"
+msgstr "Please write pre approval key to let the user purchase directly without going to PayPal website<br/>Use this only for secure connections"
+
+#: text_variables.php:241
+#, fuzzy
+msgid "Payment Error"
+msgstr "Formulario de pago"
+
+#: text_variables.php:242
+msgid "Preapproval Key"
+msgstr "Preapproval Key"
+
+#: text_variables.php:243
+msgid "Generate Preapproval Key"
+msgstr "Generate Preapproval Key"
+
+#: text_variables.php:244
+#, fuzzy
+msgid "Paypal_Email"
+msgstr "Correo electrÃ³nico de PayPal"
+
+#: text_variables.php:245
+#, fuzzy
+msgid "Starting Date"
+msgstr "ConfiguraciÃ³n guardada."
+
+#: text_variables.php:246
+#, fuzzy
+msgid "Ending Date"
+msgstr "Fecha de finalizaciÃ³n"
+
+#: text_variables.php:247
+#, fuzzy
+msgid "Max Number of Payments"
+msgstr "Hacer el pago"
+
+#: text_variables.php:248
+msgid "Max Total Amount"
+msgstr "Max Total Amount"
+
+#: text_variables.php:249
+msgid "Show Mini Widget on"
+msgstr "Show Mini Widget on"
+
+#: text_variables.php:250
+#, fuzzy
+msgid "Project Page Only"
+msgstr "Imagen del proyecto"
+
+#: text_variables.php:251
+msgid "Small Widget on all Pages"
+msgstr "Small Widget on all Pages"
+
+#: text_variables.php:252
+msgid "Pledgers"
+msgstr "Pledgers"
+
+#: text_variables.php:253
+msgid "Pledged of"
+msgstr "Pledged of"
+
+#: text_variables.php:254
+msgid "Days to Go"
+msgstr "Days to Go"
+
+#: text_variables.php:255
+msgid "Only"
+msgstr "Only"
+
+#: text_variables.php:256
+msgid "Reload Captcha"
+msgstr "Reload Captcha"
+
+#: text_variables.php:257
+msgid "Type Captcha"
+msgstr "Type Captcha"
+
+#: text_variables.php:258
+#, fuzzy
+msgid "Date"
+msgstr "Fecha de finalizaciÃ³n"
+
+#: text_variables.php:259
+msgid "Pledged"
+msgstr "Pledged"
+
+#: text_variables.php:260
+#, fuzzy
+msgid "Price for Level "
+msgstr "Nivel del proyecto"
+
+#: text_variables.php:261
+msgid "Total Contribution"
+msgstr "Total Contribution"
+
+#: text_variables.php:262
+msgid "Delete Last Level"
+msgstr "Delete Last Level"
+
+#: text_variables.php:263
+msgid "Description for Level "
+msgstr "Description for Level "
+
+#: text_variables.php:264
+#, fuzzy
+msgid "Add Level"
+msgstr "Nivel"
+
+#: text_variables.php:265
+#, fuzzy
+msgid "Project Reward Levels"
+msgstr "Nivel del proyecto"
+
+#: text_variables.php:266
+#, fuzzy
+msgid "Additional Project Information"
+msgstr "InformaciÃ³n sobre pagos"
+
+#: text_variables.php:267
+msgid "Awesome! You are about to become a supporter of"
+msgstr "Awesome! You are about to become a supporter of"
+
+#: text_variables.php:268
+msgid "Checkout"
+msgstr "Checkout"
+
+#: text_variables.php:269
+msgid "Required"
+msgstr "Required"
+
+#: text_variables.php:270
+msgid "Publishable Key"
+msgstr "Publishable Key"
+
+#: text_variables.php:271
+#, fuzzy
+msgid "Payment Method"
+msgstr "Formulario de pago"
+
+#: text_variables.php:272
+#, fuzzy
+msgid "Payment Method Selection"
+msgstr "Configuraciones de pago"
+
+#, fuzzy
+#~ msgid "First Price Level"
+#~ msgstr "Additional Price Levels"
+
+#, fuzzy
+#~ msgid "First price level description."
+#~ msgstr "Nivel de descripciÃ³n"
+
+#, fuzzy
+#~ msgid "Image 1"
+#~ msgstr "Imagen"
+
+#~ msgid "Disclaimer"
+#~ msgstr "Disclaimer"
+
+#~ msgid "This is not displayed on the project page. For testing only."
+#~ msgstr "This is not displayed on the project page. For testing only."
+
+#~ msgid ""
+#~ "This will have a default disclaimer pre-filled that a user will have the "
+#~ "ability to edit to their needs."
+#~ msgstr ""
+#~ "This will have a default disclaimer pre-filled that a user will have the "
+#~ "ability to edit to their needs."
+
+#, fuzzy
+#~ msgid "Level 1 Description"
+#~ msgstr "Nivel de descripciÃ³n"
 
 #~ msgid "Sr. no"
 #~ msgstr "Sr. no"
