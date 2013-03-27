@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: IgnitionDeck\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-27 14:27-0500\n"
-"PO-Revision-Date: 2012-12-27 14:28-0500\n"
+"POT-Creation-Date: 2013-03-27 10:35-0500\n"
+"PO-Revision-Date: 2013-03-27 10:36-0500\n"
 "Last-Translator: Nathan Hangen <nhangen@gmail.com>\n"
 "Language-Team: Virtuous Giant <info@virtuousgiant.com>\n"
 "Language: en\n"
@@ -289,7 +289,7 @@ msgstr "Message"
 msgid "Level"
 msgstr "Level"
 
-#: text_variables.php:71 text_variables.php:266
+#: text_variables.php:71 text_variables.php:267
 msgid "Price"
 msgstr "Price"
 
@@ -374,8 +374,9 @@ msgid "Zip"
 msgstr "Zip"
 
 #: text_variables.php:92
-msgid "Make Payment"
-msgstr "Make Payment"
+#, fuzzy
+msgid "Continue Checkout"
+msgstr "Checkout"
 
 #: text_variables.php:93
 msgid "Funding"
@@ -758,7 +759,8 @@ msgid "Email address to which the question should be sent"
 msgstr "Email address to which the question should be sent"
 
 #: text_variables.php:190
-msgid "Widget Theme"
+#, fuzzy
+msgid "Deck Themes"
 msgstr "Widget Theme"
 
 #: text_variables.php:191
@@ -1070,89 +1072,103 @@ msgid "Days left"
 msgstr "Days left"
 
 #: text_variables.php:261
+msgid "Ended on"
+msgstr "Ended on"
+
+#: text_variables.php:262
 msgid "Only"
 msgstr "Only"
 
-#: text_variables.php:262
+#: text_variables.php:263
 msgid "Reload Captcha"
 msgstr "Reload Captcha"
 
-#: text_variables.php:263
+#: text_variables.php:264
 msgid "Type Captcha"
 msgstr "Type Captcha"
 
-#: text_variables.php:264
+#: text_variables.php:265
 msgid "Date"
 msgstr "Date"
 
-#: text_variables.php:265
+#: text_variables.php:266
 msgid "Pledged"
 msgstr "Pledged"
 
-#: text_variables.php:267
+#: text_variables.php:268
 msgid "Title"
 msgstr "Title"
 
-#: text_variables.php:268
+#: text_variables.php:269 text_variables.php:270
 msgid "Limit"
 msgstr "Limit"
 
-#: text_variables.php:269
+#: text_variables.php:271
+msgid "of"
+msgstr "of"
+
+#: text_variables.php:272
+msgid "Taken"
+msgstr "Taken"
+
+#: text_variables.php:273
 msgid "Total Contribution"
 msgstr "Total Contribution"
 
-#: text_variables.php:270
+#: text_variables.php:274
 msgid "Delete Last Level"
 msgstr "Delete Last Level"
 
-#: text_variables.php:271
+#: text_variables.php:275
 msgid "Description"
 msgstr "Description"
 
-#: text_variables.php:272
+#: text_variables.php:276
 msgid "Add Level"
 msgstr "Add Level"
 
-#: text_variables.php:273
+#: text_variables.php:277
 msgid "Project Reward Levels"
 msgstr "Project Reward Levels"
 
-#: text_variables.php:274
+#: text_variables.php:278
 msgid "Additional Project Information"
 msgstr "Additional Project Information"
 
-#: text_variables.php:275
+#: text_variables.php:279
 msgid "Awesome! You are about to become a supporter of"
 msgstr "Awesome! You are about to become a supporter of"
 
-#: text_variables.php:276
+#: text_variables.php:280
 msgid "Checkout"
 msgstr "Checkout"
 
-#: text_variables.php:277
+#: text_variables.php:281
 msgid "Required"
 msgstr "Required"
 
-#: text_variables.php:278
+#: text_variables.php:282
 msgid "Publishable Key"
 msgstr "Publishable Key"
 
-#: text_variables.php:279
+#: text_variables.php:283
 msgid "Payment Method"
 msgstr "Payment Method"
 
-#: text_variables.php:280
+#: text_variables.php:284
 msgid "Payment Method Selection"
 msgstr "Payment Method Selection"
 
-#: text_variables.php:281
+#: text_variables.php:285
+#, fuzzy
 msgid ""
 "The current Payment Gateway is PayPal.  Below you fill in all those blank "
 "fields, to make IgnitionDeck interface with PayPal so you can collect the "
 "funds to your PayPal account, and then make sure IgnitionDeck knows that "
-"each order is completed, and post the results to your Project Widget. This "
-"may be the most complicated part of setting up your project - so pay close "
-"attention and you’ll have it done in no time!"
+"each order is completed, and post the results to your Project Widget.<br><br>"
+"\t\r\n"
+"This may be the most complicated part of setting up your project - so pay "
+"close attention and you’ll have it done in no time!"
 msgstr ""
 "The current Payment Gateway is PayPal.  Below you fill in all those blank "
 "fields, to make IgnitionDeck interface with PayPal so you can collect the "
@@ -1161,21 +1177,180 @@ msgstr ""
 "may be the most complicated part of setting up your project - so pay close "
 "attention and you’ll have it done in no time!"
 
-#: text_variables.php:282
+#: text_variables.php:287
 msgid "Click Here"
 msgstr "Click Here"
 
-#: text_variables.php:283
+#: text_variables.php:288
 msgid "for instructions on getting your Paypal Identity Token."
 msgstr "for instructions on getting your Paypal Identity Token."
 
-#: text_variables.php:284
+#: text_variables.php:289
 msgid ""
 "Rarely required. Sometimes helps when international orders are rejected "
 "because of address issues."
 msgstr ""
 "Rarely required. Sometimes helps when international orders are rejected "
 "because of address issues."
+
+#: text_variables.php:290
+#, fuzzy
+msgid "Enter Price"
+msgstr "Level Price"
+
+#: text_variables.php:291
+#, fuzzy
+msgid "Project Type"
+msgstr "Project Name"
+
+#: text_variables.php:292
+msgid ""
+"Pledge what you want or level based campaign. If you choose pledge what you "
+"want, only the first level will be used. If you choose level based, you can "
+"create as many levels as you need."
+msgstr ""
+"Pledge what you want or level based campaign. If you choose pledge what you "
+"want, only the first level will be used. If you choose level based, you can "
+"create as many levels as you need."
+
+#: text_variables.php:293
+msgid "Pledge what you want"
+msgstr "Pledge what you want"
+
+#: text_variables.php:294
+#, fuzzy
+msgid "Level based"
+msgstr "Level Price"
+
+#: text_variables.php:295
+msgid "Sold out"
+msgstr "Sold out"
+
+#: text_variables.php:296
+#, fuzzy
+msgid "Enter Manual Amount"
+msgstr "Max Total Amount"
+
+#: text_variables.php:297
+#, fuzzy
+msgid "Switch Project Type"
+msgstr "Search Project"
+
+#: text_variables.php:298
+msgid "Back"
+msgstr "Back"
+
+#: text_variables.php:299
+msgid "Waiting"
+msgstr "Waiting"
+
+#: text_variables.php:300
+msgid "Add Skin"
+msgstr "Add Skin"
+
+#: text_variables.php:301
+#, fuzzy
+msgid "Delete Skin"
+msgstr "Delete"
+
+#: text_variables.php:302
+msgid ""
+"Copy this HTML code and send it to the person who’d like to post this to "
+"their website, or use it yourself.  Make sure, wherever you use it, it’s "
+"pasted as HTML.  We don’t recommend you edit this code in any way, as it’s "
+"been designed to very specifically work at the exact width and height it is "
+"set at."
+msgstr ""
+"Copy this HTML code and send it to the person who’d like to post this to "
+"their website, or use it yourself.  Make sure, wherever you use it, it’s "
+"pasted as HTML.  We don’t recommend you edit this code in any way, as it’s "
+"been designed to very specifically work at the exact width and height it is "
+"set at."
+
+#: text_variables.php:303
+msgid ""
+"This creates the HTML code you can use to paste your project widget on "
+"websites outside of your own.  Share this with anyone who’d like to embed "
+"your widget on their website.  You’ll need to select the project you want "
+"the code made for, and then click ‘Generate Code’.  Once clicked, it will "
+"give you the proper code to use for pasting into other websites, and it will "
+"link back to your project on your website.  It will also display up-to-date "
+"information about how your Project is doing!"
+msgstr ""
+"This creates the HTML code you can use to paste your project widget on "
+"websites outside of your own.  Share this with anyone who’d like to embed "
+"your widget on their website.  You’ll need to select the project you want "
+"the code made for, and then click ‘Generate Code’.  Once clicked, it will "
+"give you the proper code to use for pasting into other websites, and it will "
+"link back to your project on your website.  It will also display up-to-date "
+"information about how your Project is doing!"
+
+#: text_variables.php:304
+#, fuzzy
+msgid "Affiliate Settings"
+msgstr "Update Settings"
+
+#: text_variables.php:305
+msgid "Affiliate Link"
+msgstr "Affiliate Link"
+
+#: text_variables.php:306
+msgid "Skin Instructions"
+msgstr "Skin Instructions"
+
+#: text_variables.php:307
+msgid "Campaign End Options"
+msgstr "Campaign End Options"
+
+#: text_variables.php:308
+msgid ""
+"Choose how to handle campaign end. Leave open to keep collecting payments, "
+"closed to remove pledge button."
+msgstr ""
+"Choose how to handle campaign end. Leave open to keep collecting payments, "
+"closed to remove pledge button."
+
+#: text_variables.php:309
+msgid "Open"
+msgstr "Open"
+
+#: text_variables.php:310
+#, fuzzy
+msgid "Closed"
+msgstr "Close"
+
+#: text_variables.php:311
+msgid "Warning"
+msgstr "Warning"
+
+#: text_variables.php:312
+msgid ""
+" This will process all pending authorizations related to the selected "
+"campaign."
+msgstr ""
+" This will process all pending authorizations related to the selected "
+"campaign."
+
+#: text_variables.php:313
+msgid ""
+"Use this screen to process transactions once your fund threshold has been "
+"reached. Please use this feature with care, and remember to clearly state "
+"terms on your website or campaign page."
+msgstr ""
+"Use this screen to process transactions once your fund threshold has been "
+"reached. Please use this feature with care, and remember to clearly state "
+"terms on your website or campaign page."
+
+#: text_variables.php:314
+msgid "Customers will only be charged once."
+msgstr "Customers will only be charged once."
+
+#: text_variables.php:315
+msgid "Process Authorizations"
+msgstr "Process Authorizations"
+
+#~ msgid "Make Payment"
+#~ msgstr "Make Payment"
 
 #~ msgid "This will be funded on"
 #~ msgstr "This will be funded on"
