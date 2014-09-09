@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: IgnitionDeck\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-06-26 15:08-0500\n"
-"PO-Revision-Date: 2014-06-26 15:08-0500\n"
-"Last-Translator: Nathan Hangen <nhangen@gmail.com>\n"
+"PO-Revision-Date: 2014-09-09 10:14+0800\n"
+"Last-Translator: Hasan Baidoun <eng.hasan.baidoon@gmail.com>\n"
 "Language-Team: Virtuous Giant <info@virtuousgiant.com>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
@@ -12,56 +12,48 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
 "X-Poedit-Basepath: .\n"
-"X-Generator: Poedit 1.6.5\n"
+"X-Generator: Poedit 1.6.9\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPath-1: ../../idtrunk/wp-content/plugins/ignitiondeck-"
 "crowdfunding\n"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:25
-#, fuzzy
 msgid "Company Name"
-msgstr "الاسم"
+msgstr "اسم الشركة"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:34
-#, fuzzy
 msgid "Company Logo"
-msgstr "شعار اجنيشن ديك"
+msgstr "شعار الشركة"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:43
 msgid "Company Location"
 msgstr ""
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:52
-#, fuzzy
 msgid "Company URL"
-msgstr "رابط الرد"
+msgstr "رابط الشركة"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:61
-#, fuzzy
 msgid "Company Facebook"
-msgstr "فيسبوك"
+msgstr "فيسبوك الشركة"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:70
-#, fuzzy
 msgid "Company Twitter"
-msgstr "تويتر"
+msgstr "تويتر الشركة"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:81
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/languages/text_variables.php:337
-#, fuzzy
 msgid "Project Title"
-msgstr "العنوان"
+msgstr "عنوان المشروع"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:91
-#, fuzzy
 msgid "Goal Amount"
 msgstr "الهدف"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:120
-#, fuzzy
 msgid "Start Date"
-msgstr "التاريخ"
+msgstr "تاريخ البدء"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:129
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/languages/text_variables.php:14
@@ -69,39 +61,32 @@ msgid "End Date"
 msgstr "تاريخ الانتهاء"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:138
-#, fuzzy
 msgid "Anticipated Ship Date"
-msgstr "تاريخ الشحن المطلوب"
+msgstr "تاريخ الشحن المتوقع"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:148
-#, fuzzy
 msgid "Project Fund Type"
-msgstr "كتابة التحقق البشري"
+msgstr "نوع تمويل المشروع"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:185
-#, fuzzy
 msgid "Close on End"
-msgstr "غلق"
+msgstr "غلق عند الانتهاء"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:194
 msgid "Leave Open"
 msgstr ""
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:205
-#, fuzzy
 msgid "Project Video"
-msgstr "فيديو"
+msgstr "فيديو المشروع"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:214
-#, fuzzy
 msgid "Project Short Description"
-msgstr ""
-"هذا هو الوصف القصير للمشروع, ويستخدم في الودجيت المصغرة والعادية والمضمنة."
+msgstr "وصف المشروع القصير"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:223
-#, fuzzy
 msgid "Project Long Description"
-msgstr "هذه هو الوصف المفصل للمشروع, يستخدم لعرض المحتوى أسفل حقل الفيديو."
+msgstr "وصف المشروع المطوّل"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:232
 #, fuzzy
@@ -114,9 +99,8 @@ msgid "Project Updates"
 msgstr "تحديثات المشروع"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:248
-#, fuzzy
 msgid "Featured Image"
-msgstr "الصورة"
+msgstr "الصورة الأساسية"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:257
 #, fuzzy
@@ -134,9 +118,8 @@ msgid "Project Image 4"
 msgstr "الصورة 4"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:285
-#, fuzzy
 msgid "Number of Levels"
-msgstr "أقصى عدد للدفعات"
+msgstr "عدد المستويات"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:298
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/classes/class-id_fes.php:327
@@ -2030,11 +2013,11 @@ msgstr "مسح الكل"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/templates/admin/_settingsIgnDeck.php:17
 msgid "Validate"
-msgstr ""
+msgstr "تحقق"
 
 #: ../../idtrunk/wp-content/plugins/ignitiondeck-crowdfunding/templates/admin/_settingsIgnDeck.php:23
 msgid " License Valid for"
-msgstr ""
+msgstr "رخصة صالحة إلى"
 
 #~ msgid "Make Payment"
 #~ msgstr "تنفيذ الدفع"
